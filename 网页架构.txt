@@ -1,0 +1,3631 @@
+<tbody><tr class="GTContentTitle"><td width="48px"><input type="checkbox" onclick="AllSelect(this);" id="allSelectBox" name="allSelectBox" checked="checked"></td><td width="38%" align="center">题名</td><td width="120px" align="center">（第一）作者/主编</td><td width="13%" align="center">来源</td><td width="76px" align="center">发表时间</td><td width="7%" align="center">数据库</td><td width="4%" align="center">删除</td></tr><tr id="TSQB20200317003" name="TSQB20200317003" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CAPJLAST!TSQB20200317003!1!6" checked="checked"><span id="61" name="61">1</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSQB20200317003&amp;dbname=CAPJ2020&amp;dbcode=CAPJ&amp;id=&amp;file=TSQB20200317003" target="_blank">中国高校图书馆组织氛围类型与基线研究</a>
+      </td>
+      <td>
+        包平; 黄思慧; 胡晓辉
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2020-03-18 15:18
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CAPJLAST!TSQB20200317003','6','1');" class="deleteicon">x</a></td></tr><tr id="LTLW201932025" name="LTLW201932025" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2020!LTLW201932025!2!6" checked="checked"><span id="62" name="62">2</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LTLW201932025&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=LTLW201932025" target="_blank">“双一流”建设中高校图书馆队伍建设研究</a>
+      </td>
+      <td>
+        高培培
+      </td>
+      <td>
+       兰台内外       
+      </td>
+      <td align="center">
+        2019-11-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2020!LTLW201932025','6','2');" class="deleteicon">x</a></td></tr><tr id="JXTS201806007" name="JXTS201806007" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!JXTS201806007!3!6" checked="checked"><span id="63" name="63">3</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JXTS201806007&amp;dbname=CJFD2018&amp;dbcode=CJFD&amp;id=&amp;file=JXTS201806007" target="_blank">基于问卷调查的高校图书馆阅读推广活动评价研究</a>
+      </td>
+      <td>
+        李桂贞; 孙清玉; 姚雪琦; 罗金增
+      </td>
+      <td>
+       图书馆研究       
+      </td>
+      <td align="center">
+        2018-11-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!JXTS201806007','6','3');" class="deleteicon">x</a></td></tr><tr id="KJXY201833006" name="KJXY201833006" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!KJXY201833006!4!6" checked="checked"><span id="64" name="64">4</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJXY201833006&amp;DbName=CJFD2018&amp;DbCode=CJFD&amp;id=&amp;file=KJXY201833006" target="_blank">基于生态视角构建高校图书馆智慧服务研究</a>
+      </td>
+      <td>
+        杨小莉
+      </td>
+      <td>
+       江苏科技信息       
+      </td>
+      <td align="center">
+        2018-11-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!KJXY201833006','6','4');" class="deleteicon">x</a></td></tr><tr id="TUSH201901013" name="TUSH201901013" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!TUSH201901013!5!6" checked="checked"><span id="65" name="65">5</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TUSH201901013&amp;dbname=CJFD2019&amp;dbcode=CJFD&amp;id=&amp;file=TUSH201901013" target="_blank">智库背景下高校图书馆服务发展研究</a>
+      </td>
+      <td>
+        施亮
+      </td>
+      <td>
+       四川图书馆学报       
+      </td>
+      <td align="center">
+        2019-02-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!TUSH201901013','6','5');" class="deleteicon">x</a></td></tr><tr id="QBTS201903016" name="QBTS201903016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!QBTS201903016!6!6" checked="checked"><span id="66" name="66">6</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS201903016&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=QBTS201903016" target="_blank">嵌入机构知识库的高校图书馆学科服务模式探析</a>
+      </td>
+      <td>
+        孙清玉
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2019-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!QBTS201903016','6','6');" class="deleteicon">x</a></td></tr><tr id="QBTS201901008" name="QBTS201901008" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!QBTS201901008!7!6" checked="checked"><span id="67" name="67">7</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBTS201901008&amp;dbname=CJFD2019&amp;dbcode=CJFD&amp;id=&amp;file=QBTS201901008" target="_blank">新信息环境下高校科技查新协同合作机制研究——以江苏地区为例</a>
+      </td>
+      <td>
+        吴东敏; 梁美宏
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2019-01-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!QBTS201901008','6','7');" class="deleteicon">x</a></td></tr><tr id="KJSJ201905003" name="KJSJ201905003" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!KJSJ201905003!8!6" checked="checked"><span id="68" name="68">8</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJSJ201905003&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=KJSJ201905003" target="_blank">高校科技查新服务现状及其质量管理研究——以江苏地区为例</a>
+      </td>
+      <td>
+        梁美宏; 吴东敏; 付天香
+      </td>
+      <td>
+       科技视界       
+      </td>
+      <td align="center">
+        2019-02-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!KJSJ201905003','6','8');" class="deleteicon">x</a></td></tr><tr id="GJXK201910064" name="GJXK201910064" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!GJXK201910064!9!6" checked="checked"><span id="69" name="69">9</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=GJXK201910064&amp;dbname=CJFD2019&amp;dbcode=CJFD&amp;id=&amp;file=GJXK201910064" target="_blank">江苏省48所本科高校图书馆微信公众平台调查与分析</a>
+      </td>
+      <td>
+        王迪
+      </td>
+      <td>
+       高教学刊       
+      </td>
+      <td align="center">
+        2019-04-29
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!GJXK201910064','6','9');" class="deleteicon">x</a></td></tr><tr id="HNTX201904031" name="HNTX201904031" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!HNTX201904031!10!6" checked="checked"><span id="610" name="610">10</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HNTX201904031&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=HNTX201904031" target="_blank">“以人为本”在高校图书馆读者服务工作中的相关分析</a>
+      </td>
+      <td>
+        高冕
+      </td>
+      <td>
+       河南图书馆学刊       
+      </td>
+      <td align="center">
+        2019-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!HNTX201904031','6','10');" class="deleteicon">x</a></td></tr><tr id="JXTS201902006" name="JXTS201902006" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!JXTS201902006!11!6" checked="checked"><span id="611" name="611">11</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JXTS201902006&amp;dbname=CJFD2019&amp;dbcode=CJFD&amp;id=&amp;file=JXTS201902006" target="_blank">基于全面质量管理的高校图书馆阅读推广活动质量评价与控制研究</a>
+      </td>
+      <td>
+        李桂贞; 孙清玉; 姚雪琦; 刘爱华
+      </td>
+      <td>
+       图书馆研究       
+      </td>
+      <td align="center">
+        2019-03-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!JXTS201902006','6','11');" class="deleteicon">x</a></td></tr><tr id="LTLW201914022" name="LTLW201914022" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!LTLW201914022!12!6" checked="checked"><span id="612" name="612">12</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LTLW201914022&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=LTLW201914022" target="_blank">知识经济时代的图书馆人力资源管理创新</a>
+      </td>
+      <td>
+        邵之倩
+      </td>
+      <td>
+       兰台内外       
+      </td>
+      <td align="center">
+        2019-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!LTLW201914022','6','12');" class="deleteicon">x</a></td></tr><tr id="KJSJ201921081" name="KJSJ201921081" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!KJSJ201921081!13!6" checked="checked"><span id="613" name="613">13</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJSJ201921081&amp;dbname=CJFD2019&amp;dbcode=CJFD&amp;id=&amp;file=KJSJ201921081" target="_blank">双一流建设背景下高校图书馆开放获取资源服务现状、问题及对策</a>
+      </td>
+      <td>
+        卢祖丹
+      </td>
+      <td>
+       科技视界       
+      </td>
+      <td align="center">
+        2019-07-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!KJSJ201921081','6','13');" class="deleteicon">x</a></td></tr><tr id="NMKJ201916033" name="NMKJ201916033" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!NMKJ201916033!14!6" checked="checked"><span id="614" name="614">14</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=NMKJ201916033&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=NMKJ201916033" target="_blank">基于WCI的江苏省本科高校图书馆微信公众平台影响力分析</a>
+      </td>
+      <td>
+        王迪
+      </td>
+      <td>
+       内蒙古科技与经济       
+      </td>
+      <td align="center">
+        2019-08-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!NMKJ201916033','6','14');" class="deleteicon">x</a></td></tr><tr id="KJSJ201928099" name="KJSJ201928099" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!KJSJ201928099!15!6" checked="checked"><span id="615" name="615">15</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJSJ201928099&amp;dbname=CJFD2019&amp;dbcode=CJFD&amp;id=&amp;file=KJSJ201928099" target="_blank">互联网时代我国高校图书馆防治学术不端行为的思考</a>
+      </td>
+      <td>
+        卢祖丹
+      </td>
+      <td>
+       科技视界       
+      </td>
+      <td align="center">
+        2019-10-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2019!KJSJ201928099','6','15');" class="deleteicon">x</a></td></tr><tr id="QBTS201911018" name="QBTS201911018" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2019!QBTS201911018!16!6" checked="checked"><span id="616" name="616">16</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS201911018&amp;DbName=CJFD2019&amp;DbCode=CJFD&amp;id=&amp;file=QBTS201911018" target="_blank">我国机构知识库研究现状与未来发展趋势探讨</a>
+      </td>
+      <td>
+        梁美宏; 孙清玉; 林峥; 洪建
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2019-11-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2019!QBTS201911018','6','16');" class="deleteicon">x</a></td></tr><tr id="KJQB201802005" name="KJQB201802005" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!KJQB201802005!17!6" checked="checked"><span id="617" name="617">17</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201802005&amp;dbname=CJFD2018&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201802005" target="_blank">高校图书馆开展移动图书馆服务调查研究——以南京部分高校图书馆为例</a>
+      </td>
+      <td>
+        高冕; 王鹏
+      </td>
+      <td>
+       图书情报导刊       
+      </td>
+      <td align="center">
+        2018-02-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2018!KJQB201802005','6','17');" class="deleteicon">x</a></td></tr><tr id="QBTS201804019" name="QBTS201804019" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!QBTS201804019!18!6" checked="checked"><span id="618" name="618">18</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS201804019&amp;DbName=CJFD2018&amp;DbCode=CJFD&amp;id=&amp;file=QBTS201804019" target="_blank">高校图书馆教学资源建设模式研究——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        施亮
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2018-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2018!QBTS201804019','6','18');" class="deleteicon">x</a></td></tr><tr id="LPSS201802023" name="LPSS201802023" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!LPSS201802023!19!6" checked="checked"><span id="619" name="619">19</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LPSS201802023&amp;dbname=CJFD2018&amp;dbcode=CJFD&amp;id=&amp;file=LPSS201802023" target="_blank">我国图书馆智库研究现状统计分析</a>
+      </td>
+      <td>
+        蒋艳
+      </td>
+      <td>
+       六盘水师范学院学报       
+      </td>
+      <td align="center">
+        2018-05-09 17:03
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2018!LPSS201802023','6','19');" class="deleteicon">x</a></td></tr><tr id="QBLL201805027" name="QBLL201805027" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!QBLL201805027!20!6" checked="checked"><span id="620" name="620">20</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBLL201805027&amp;DbName=CJFD2018&amp;DbCode=CJFD&amp;id=&amp;file=QBLL201805027" target="_blank">基于OAI的企业多元数据服务平台构建</a>
+      </td>
+      <td>
+        胡洋; 赵又霖; 谢友宁; 高培培
+      </td>
+      <td>
+       情报理论与实践       
+      </td>
+      <td align="center">
+        2017-12-25 17:34
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2018!QBLL201805027','6','20');" class="deleteicon">x</a></td></tr><tr id="CAIZ201817206" name="CAIZ201817206" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!CAIZ201817206!21!6" checked="checked"><span id="621" name="621">21</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=CAIZ201817206&amp;dbname=CJFD2018&amp;dbcode=CJFD&amp;id=&amp;file=CAIZ201817206" target="_blank">对图书馆采访有效性的质量控制探讨</a>
+      </td>
+      <td>
+        陶媛媛
+      </td>
+      <td>
+       才智       
+      </td>
+      <td align="center">
+        2018-06-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2018!CAIZ201817206','6','21');" class="deleteicon">x</a></td></tr><tr id="LYTS201808027" name="LYTS201808027" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!LYTS201808027!22!6" checked="checked"><span id="622" name="622">22</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201808027&amp;DbName=CJFD2018&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201808027" target="_blank">基于生态理念的高校智慧型图书馆的建设研究</a>
+      </td>
+      <td>
+        高冕
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2018-08-21 09:32
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2018!LYTS201808027','6','22');" class="deleteicon">x</a></td></tr><tr id="JSTS201807015" name="JSTS201807015" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!JSTS201807015!23!6" checked="checked"><span id="623" name="623">23</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS201807015&amp;dbname=CJFD2018&amp;dbcode=CJFD&amp;id=&amp;file=JSTS201807015" target="_blank">民间读书会巧绘中国耕读图——读《领读中国》有感</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2018-07-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2018!JSTS201807015','6','23');" class="deleteicon">x</a></td></tr><tr id="WJZZ201025109" name="WJZZ201025109" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!WJZZ201025109!24!6" checked="checked"><span id="624" name="624">24</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=WJZZ201025109&amp;DbName=CJFD2010&amp;DbCode=CJFD&amp;id=&amp;file=WJZZ201025109" target="_blank">也谈高校图书馆服务工作</a>
+      </td>
+      <td>
+        熊易
+      </td>
+      <td>
+       文教资料       
+      </td>
+      <td align="center">
+        2010-09-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2018!WJZZ201025109','6','24');" class="deleteicon">x</a></td></tr><tr id="LYTS201810015" name="LYTS201810015" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2018!LYTS201810015!25!6" checked="checked"><span id="625" name="625">25</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LYTS201810015&amp;dbname=CJFD2018&amp;dbcode=CJFD&amp;id=&amp;file=LYTS201810015" target="_blank">大数据背景下智慧图书馆用户行为分析</a>
+      </td>
+      <td>
+        施亮
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2018-10-18 09:03
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2018!LYTS201810015','6','25');" class="deleteicon">x</a></td></tr><tr id="JJKJ201631092" name="JJKJ201631092" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2017!JJKJ201631092!26!6" checked="checked"><span id="626" name="626">26</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JJKJ201631092&amp;DbName=CJFD2016&amp;DbCode=CJFD&amp;id=&amp;file=JJKJ201631092" target="_blank">高校图书馆支撑服务大学生创新创业教育的路径选择</a>
+      </td>
+      <td>
+        陈晓华; 吴君明
+      </td>
+      <td>
+       科技经济导刊       
+      </td>
+      <td align="center">
+        2016-11-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2017!JJKJ201631092','6','26');" class="deleteicon">x</a></td></tr><tr id="LYTS201612014" name="LYTS201612014" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2017!LYTS201612014!27!6" checked="checked"><span id="627" name="627">27</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LYTS201612014&amp;dbname=CJFD2016&amp;dbcode=CJFD&amp;id=&amp;file=LYTS201612014" target="_blank">智慧图书馆建设技术策略与案例分析</a>
+      </td>
+      <td>
+        杨小莉
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2016-12-16 09:02
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2017!LYTS201612014','6','27');" class="deleteicon">x</a></td></tr><tr id="LYTS201701050" name="LYTS201701050" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2017!LYTS201701050!28!6" checked="checked"><span id="628" name="628">28</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201701050&amp;DbName=CJFD2017&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201701050" target="_blank">从传统图书馆到智慧图书馆:图书馆业务流程的转变</a>
+      </td>
+      <td>
+        张友华; 杨小莉
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2017-01-13 13:10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2017!LYTS201701050','6','28');" class="deleteicon">x</a></td></tr><tr id="LSGL201705003" name="LSGL201705003" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2017!LSGL201705003!29!6" checked="checked"><span id="629" name="629">29</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LSGL201705003&amp;dbname=CJFD2017&amp;dbcode=CJFD&amp;id=&amp;file=LSGL201705003" target="_blank">大学图书馆数据素养的服务模式研究</a>
+      </td>
+      <td>
+        胡洋; 谢友宁; 赵又霖
+      </td>
+      <td>
+       图书馆理论与实践       
+      </td>
+      <td align="center">
+        2017-05-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2017!LSGL201705003','6','29');" class="deleteicon">x</a></td></tr><tr id="JSTS201708003" name="JSTS201708003" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2017!JSTS201708003!30!6" checked="checked"><span id="630" name="630">30</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS201708003&amp;DbName=CJFD2017&amp;DbCode=CJFD&amp;id=&amp;file=JSTS201708003" target="_blank">从图书馆文化到文化图书馆</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2017-08-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2017!JSTS201708003','6','30');" class="deleteicon">x</a></td></tr><tr id="KJQB201523009" name="KJQB201523009" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!KJQB201523009!31!6" checked="checked"><span id="631" name="631">31</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201523009&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201523009" target="_blank">高校图书馆对外开放刍议</a>
+      </td>
+      <td>
+        熊易
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-12-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!KJQB201523009','6','31');" class="deleteicon">x</a></td></tr><tr id="JYGN201510027" name="JYGN201510027" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!JYGN201510027!32!6" checked="checked"><span id="632" name="632">32</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JYGN201510027&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=JYGN201510027" target="_blank">浅议高校图书馆管理下的教材中心建设与管理</a>
+      </td>
+      <td>
+        杨波
+      </td>
+      <td>
+       教育观察(上半月)       
+      </td>
+      <td align="center">
+        2015-11-19 14:49
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2016!JYGN201510027','6','32');" class="deleteicon">x</a></td></tr><tr id="QBTS201512027" name="QBTS201512027" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!QBTS201512027!33!6" checked="checked"><span id="633" name="633">33</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBTS201512027&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=QBTS201512027" target="_blank">图书馆知识共享模型构建研究</a>
+      </td>
+      <td>
+        封丽; 胡晓辉; 沈军威
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2015-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!QBTS201512027','6','33');" class="deleteicon">x</a></td></tr><tr id="DNZS201529004" name="DNZS201529004" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!DNZS201529004!34!6" checked="checked"><span id="634" name="634">34</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=DNZS201529004&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=DNZS201529004" target="_blank">大数据时代的高校图书馆数据管理研究</a>
+      </td>
+      <td>
+        高培培
+      </td>
+      <td>
+       电脑知识与技术       
+      </td>
+      <td align="center">
+        2015-12-24 15:10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2016!DNZS201529004','6','34');" class="deleteicon">x</a></td></tr><tr id="ZXLJ201526110" name="ZXLJ201526110" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!ZXLJ201526110!35!6" checked="checked"><span id="635" name="635">35</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=ZXLJ201526110&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=ZXLJ201526110" target="_blank">高校图书馆图书超期集中处理的创新实践和探讨——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        杨波
+      </td>
+      <td>
+       科技资讯       
+      </td>
+      <td align="center">
+        2015-09-13
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!ZXLJ201526110','6','35');" class="deleteicon">x</a></td></tr><tr id="HKTY201506023" name="HKTY201506023" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!HKTY201506023!36!6" checked="checked"><span id="636" name="636">36</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HKTY201506023&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=HKTY201506023" target="_blank">加纳图书馆建设和服务特色探究</a>
+      </td>
+      <td>
+        杨波
+      </td>
+      <td>
+       河北科技图苑       
+      </td>
+      <td align="center">
+        2015-11-01
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2016!HKTY201506023','6','36');" class="deleteicon">x</a></td></tr><tr id="JSTS201601006" name="JSTS201601006" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!JSTS201601006!37!6" checked="checked"><span id="637" name="637">37</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS201601006&amp;dbname=CJFD2016&amp;dbcode=CJFD&amp;id=&amp;file=JSTS201601006" target="_blank">新搜商公式及其构成因素研究</a>
+      </td>
+      <td>
+        于新国; 熊易
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2016-01-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!JSTS201601006','6','37');" class="deleteicon">x</a></td></tr><tr id="LSGL201601004" name="LSGL201601004" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!LSGL201601004!38!6" checked="checked"><span id="638" name="638">38</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LSGL201601004&amp;DbName=CJFD2016&amp;DbCode=CJFD&amp;id=&amp;file=LSGL201601004" target="_blank">国际开放科学数据实证资源及利用研究</a>
+      </td>
+      <td>
+        熊易
+      </td>
+      <td>
+       图书馆理论与实践       
+      </td>
+      <td align="center">
+        2016-01-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2016!LSGL201601004','6','38');" class="deleteicon">x</a></td></tr><tr id="TNGZ201604033" name="TNGZ201604033" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!TNGZ201604033!39!6" checked="checked"><span id="639" name="639">39</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ201604033&amp;dbname=CJFD2016&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ201604033" target="_blank">大数据时代  反思“知识”——读《知识的边界》有感</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2016-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!TNGZ201604033','6','39');" class="deleteicon">x</a></td></tr><tr id="TSSS201604007" name="TSSS201604007" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!TSSS201604007!40!6" checked="checked"><span id="640" name="640">40</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSSS201604007&amp;DbName=CJFD2016&amp;DbCode=CJFD&amp;id=&amp;file=TSSS201604007" target="_blank">网络环境下主题词表的编制研究</a>
+      </td>
+      <td>
+        吴东敏; 许艺伟
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2016-02-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2016!TSSS201604007','6','40');" class="deleteicon">x</a></td></tr><tr id="LYTS201605025" name="LYTS201605025" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!LYTS201605025!41!6" checked="checked"><span id="641" name="641">41</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LYTS201605025&amp;dbname=CJFD2016&amp;dbcode=CJFD&amp;id=&amp;file=LYTS201605025" target="_blank">高校图书馆的文献典藏机制探讨——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        王冰花; 高冕
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2016-04-26 14:11
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!LYTS201605025','6','41');" class="deleteicon">x</a></td></tr><tr id="TSQB201604010" name="TSQB201604010" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!TSQB201604010!42!6" checked="checked"><span id="642" name="642">42</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSQB201604010&amp;DbName=CJFD2016&amp;DbCode=CJFD&amp;id=&amp;file=TSQB201604010" target="_blank">美国图书馆组织气候改进方案的决策过程案例</a>
+      </td>
+      <td>
+        胡晓辉
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2016-03-28 08:56
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2016!TSQB201604010','6','42');" class="deleteicon">x</a></td></tr><tr id="SZTG201510011" name="SZTG201510011" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2016!SZTG201510011!43!6" checked="checked"><span id="643" name="643">43</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=SZTG201510011&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=SZTG201510011" target="_blank">我国省级公共图书馆营销现状调查及分析</a>
+      </td>
+      <td>
+        许艺伟; 吴东敏
+      </td>
+      <td>
+       数字图书馆论坛       
+      </td>
+      <td align="center">
+        2015-10-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2016!SZTG201510011','6','43');" class="deleteicon">x</a></td></tr><tr id="JZGC201433133" name="JZGC201433133" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!JZGC201433133!44!6" checked="checked"><span id="644" name="644">44</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JZGC201433133&amp;DbName=CJFD2014&amp;DbCode=CJFD&amp;id=&amp;file=JZGC201433133" target="_blank">基于灰理想关联分析的数字图书馆用户界面评价</a>
+      </td>
+      <td>
+        张瑞玲
+      </td>
+      <td>
+       价值工程       
+      </td>
+      <td align="center">
+        2014-11-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2015!JZGC201433133','6','44');" class="deleteicon">x</a></td></tr><tr id="HJZK201501014" name="HJZK201501014" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!HJZK201501014!45!6" checked="checked"><span id="645" name="645">45</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=HJZK201501014&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=HJZK201501014" target="_blank">“全评价”体系在科技查新质量评价中的应用研究</a>
+      </td>
+      <td>
+        孙清玉; 陈刚
+      </td>
+      <td>
+       河北工程大学学报(社会科学版)       
+      </td>
+      <td align="center">
+        2015-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2015!HJZK201501014','6','45');" class="deleteicon">x</a></td></tr><tr id="KJQB201509001" name="KJQB201509001" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!KJQB201509001!46!6" checked="checked"><span id="646" name="646">46</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201509001&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201509001" target="_blank">全媒体时代高校图书馆信息服务研究</a>
+      </td>
+      <td>
+        高冕
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-05-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2015!KJQB201509001','6','46');" class="deleteicon">x</a></td></tr><tr id="KJQB201513006" name="KJQB201513006" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!KJQB201513006!47!6" checked="checked"><span id="647" name="647">47</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201513006&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201513006" target="_blank">基于资源共享的特色阅览室个性化服务研究——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        詹晓敏
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-07-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2015!KJQB201513006','6','47');" class="deleteicon">x</a></td></tr><tr id="KJQB201514045" name="KJQB201514045" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!KJQB201514045!48!6" checked="checked"><span id="648" name="648">48</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201514045&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201514045" target="_blank">多校区高校图书档案联合存储研究</a>
+      </td>
+      <td>
+        王冰花
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-07-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2015!KJQB201514045','6','48');" class="deleteicon">x</a></td></tr><tr id="XDQB201507030" name="XDQB201507030" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!XDQB201507030!49!6" checked="checked"><span id="649" name="649">49</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XDQB201507030&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=XDQB201507030" target="_blank">学位论文全文数据库建设中的思考</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2015-07-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2015!XDQB201507030','6','49');" class="deleteicon">x</a></td></tr><tr id="KJQB201516004" name="KJQB201516004" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!KJQB201516004!50!6" checked="checked"><span id="650" name="650">50</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201516004&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201516004" target="_blank">浅议高校图书馆灰色文献的开发与利用</a>
+      </td>
+      <td>
+        冼怀灵
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-08-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2015!KJQB201516004','6','50');" class="deleteicon">x</a></td></tr><tr id="KJQB201517003" name="KJQB201517003" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!KJQB201517003!51!6" checked="checked"><span id="651" name="651">51</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201517003&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201517003" target="_blank">微信对高校图书馆的作用探析</a>
+      </td>
+      <td>
+        张峰; 王冰花
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-09-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2015!KJQB201517003','6','51');" class="deleteicon">x</a></td></tr><tr id="KJQB201517011" name="KJQB201517011" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!KJQB201517011!52!6" checked="checked"><span id="652" name="652">52</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201517011&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201517011" target="_blank">高校图书馆阅读推广创新实践与探讨——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        詹晓敏
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2015-09-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2015!KJQB201517011','6','52');" class="deleteicon">x</a></td></tr><tr id="TSGX201510008" name="TSGX201510008" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!TSGX201510008!53!6" checked="checked"><span id="653" name="653">53</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGX201510008&amp;dbname=CJFD2015&amp;dbcode=CJFD&amp;id=&amp;file=TSGX201510008" target="_blank">基于馆员能力发展的图书馆学术交流机制研究——以陕西图书馆为例</a>
+      </td>
+      <td>
+        张峰; 冼怀灵
+      </td>
+      <td>
+       图书馆学刊       
+      </td>
+      <td align="center">
+        2015-11-06 16:27
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDLAST2015!TSGX201510008','6','53');" class="deleteicon">x</a></td></tr><tr id="XDQB201510032" name="XDQB201510032" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFDLAST2015!XDQB201510032!54!6" checked="checked"><span id="654" name="654">54</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDQB201510032&amp;DbName=CJFD2015&amp;DbCode=CJFD&amp;id=&amp;file=XDQB201510032" target="_blank">基于推送消息调查的高校图书馆微信平台运营策略研究</a>
+      </td>
+      <td>
+        杨小莉; 王超
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2015-10-23 13:20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFDLAST2015!XDQB201510032','6','54');" class="deleteicon">x</a></td></tr><tr id="TSGJ201403011" name="TSGJ201403011" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2014!TSGJ201403011!55!6" checked="checked"><span id="655" name="655">55</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGJ201403011&amp;dbname=CJFD2014&amp;dbcode=CJFD&amp;id=&amp;file=TSGJ201403011" target="_blank">图书馆组织气候测评的结构模型构建</a>
+      </td>
+      <td>
+        胡晓辉; 郑德俊
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        2014-03-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2014!TSGJ201403011','6','55');" class="deleteicon">x</a></td></tr><tr id="JSTS201409012" name="JSTS201409012" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2014!JSTS201409012!56!6" checked="checked"><span id="656" name="656">56</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS201409012&amp;DbName=CJFD2014&amp;DbCode=CJFD&amp;id=&amp;file=JSTS201409012" target="_blank">区域高校图书馆联合体资源建设平台分析与构建</a>
+      </td>
+      <td>
+        杨小莉; 谢友宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2014-09-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2014!JSTS201409012','6','56');" class="deleteicon">x</a></td></tr><tr id="KJQB201419010" name="KJQB201419010" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2014!KJQB201419010!57!6" checked="checked"><span id="657" name="657">57</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201419010&amp;dbname=CJFD2014&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201419010" target="_blank">基于热门图书排行榜的高校图书馆读者阅读特征分析</a>
+      </td>
+      <td>
+        陆艳
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2014-10-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2014!KJQB201419010','6','57');" class="deleteicon">x</a></td></tr><tr id="LYTS201410050" name="LYTS201410050" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2014!LYTS201410050!58!6" checked="checked"><span id="658" name="658">58</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201410050&amp;DbName=CJFD2014&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201410050" target="_blank">关于发展南京高校图书馆自助服务的调查与思考</a>
+      </td>
+      <td>
+        熊易
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2014-10-29 17:37
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2014!LYTS201410050','6','58');" class="deleteicon">x</a></td></tr><tr id="XWZX201409055" name="XWZX201409055" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2014!XWZX201409055!59!6" checked="checked"><span id="659" name="659">59</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XWZX201409055&amp;dbname=CJFD2014&amp;dbcode=CJFD&amp;id=&amp;file=XWZX201409055" target="_blank">微信对高校图书馆的作用探究</a>
+      </td>
+      <td>
+        张峰; 王冰花
+      </td>
+      <td>
+       新闻战线       
+      </td>
+      <td align="center">
+        2014-09-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2014!XWZX201409055','6','59');" class="deleteicon">x</a></td></tr><tr id="HNTX201410020" name="HNTX201410020" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2014!HNTX201410020!60!6" checked="checked"><span id="660" name="660">60</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HNTX201410020&amp;DbName=CJFD2014&amp;DbCode=CJFD&amp;id=&amp;file=HNTX201410020" target="_blank">基于流通数据的高校图书馆纸质图书借阅量统计分析</a>
+      </td>
+      <td>
+        陆艳
+      </td>
+      <td>
+       河南图书馆学刊       
+      </td>
+      <td align="center">
+        2014-10-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2014!HNTX201410020','6','60');" class="deleteicon">x</a></td></tr><tr id="ZXDB201332159" name="ZXDB201332159" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDHIS2!ZXDB201332159!61!6" checked="checked"><span id="661" name="661">61</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=ZXDB201332159&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=ZXDB201332159" target="_blank">现代图书馆的服务理念与服务方式</a>
+      </td>
+      <td>
+        焦娜; 冼怀灵
+      </td>
+      <td>
+       科技创新导报       
+      </td>
+      <td align="center">
+        2013-11-11
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDHIS2!ZXDB201332159','6','61');" class="deleteicon">x</a></td></tr><tr id="KJXY201303010" name="KJXY201303010" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!KJXY201303010!62!6" checked="checked"><span id="662" name="662">62</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJXY201303010&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=KJXY201303010" target="_blank">高校图书馆读者阅读心理研究与提高服务质量</a>
+      </td>
+      <td>
+        宋艺丁
+      </td>
+      <td>
+       江苏科技信息       
+      </td>
+      <td align="center">
+        2013-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!KJXY201303010','6','62');" class="deleteicon">x</a></td></tr><tr id="JSTS201302025" name="JSTS201302025" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!JSTS201302025!63!6" checked="checked"><span id="663" name="663">63</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS201302025&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=JSTS201302025" target="_blank">后数字图书馆时代的虚拟知识社区架构</a>
+      </td>
+      <td>
+        封丽
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2013-02-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!JSTS201302025','6','63');" class="deleteicon">x</a></td></tr><tr id="QBTS201303022" name="QBTS201303022" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!QBTS201303022!64!6" checked="checked"><span id="664" name="664">64</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS201303022&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=QBTS201303022" target="_blank">科技查新中查新点确定的案例分析</a>
+      </td>
+      <td>
+        吴东敏; 孙清玉; 肖东
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2013-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!QBTS201303022','6','64');" class="deleteicon">x</a></td></tr><tr id="GJPG201301013" name="GJPG201301013" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!GJPG201301013!65!6" checked="checked"><span id="665" name="665">65</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=GJPG201301013&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=GJPG201301013" target="_blank">基于H指数的优势学科测量与评估</a>
+      </td>
+      <td>
+        谢友宁; 杜小丹
+      </td>
+      <td>
+       中国高等教育评估       
+      </td>
+      <td align="center">
+        2013-02-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!GJPG201301013','6','65');" class="deleteicon">x</a></td></tr><tr id="JSTS201304019" name="JSTS201304019" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!JSTS201304019!66!6" checked="checked"><span id="666" name="666">66</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS201304019&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=JSTS201304019" target="_blank">移动服务在高校图书馆的应用调查与思考</a>
+      </td>
+      <td>
+        杨小莉; 谢友宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2013-04-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!JSTS201304019','6','66');" class="deleteicon">x</a></td></tr><tr id="TSQB201306026" name="TSQB201306026" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!TSQB201306026!67!6" checked="checked"><span id="667" name="667">67</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSQB201306026&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=TSQB201306026" target="_blank">高校BBS讨论区内信息有序化研究及管理启示——以南京大学小百合网站为例</a>
+      </td>
+      <td>
+        乔文妤; 高冕
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2013-03-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!TSQB201306026','6','67');" class="deleteicon">x</a></td></tr><tr id="LYTS201305011" name="LYTS201305011" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!LYTS201305011!68!6" checked="checked"><span id="668" name="668">68</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201305011&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201305011" target="_blank">地方行业特色高校图书馆电子资源配置策略研究——以西安科技大学为例</a>
+      </td>
+      <td>
+        张峰; 冼怀灵
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2013-05-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!LYTS201305011','6','68');" class="deleteicon">x</a></td></tr><tr id="KJQB201308009" name="KJQB201308009" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!KJQB201308009!69!6" checked="checked"><span id="669" name="669">69</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201308009&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201308009" target="_blank">多校区图书馆有效信息服务模式研究</a>
+      </td>
+      <td>
+        张峰; 冼怀灵
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2013-04-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!KJQB201308009','6','69');" class="deleteicon">x</a></td></tr><tr id="LYTS201306014" name="LYTS201306014" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!LYTS201306014!70!6" checked="checked"><span id="670" name="670">70</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201306014&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201306014" target="_blank">期刊数据库维护工作的实践探讨</a>
+      </td>
+      <td>
+        张友华
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2013-06-06 08:30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!LYTS201306014','6','70');" class="deleteicon">x</a></td></tr><tr id="ZXDB201308166" name="ZXDB201308166" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!ZXDB201308166!71!6" checked="checked"><span id="671" name="671">71</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=ZXDB201308166&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=ZXDB201308166" target="_blank">论高校学生信息素养能力的培养</a>
+      </td>
+      <td>
+        张峰; 邵之倩
+      </td>
+      <td>
+       科技创新导报       
+      </td>
+      <td align="center">
+        2013-03-11
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!ZXDB201308166','6','71');" class="deleteicon">x</a></td></tr><tr id="ZXDB201310148" name="ZXDB201310148" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!ZXDB201310148!72!6" checked="checked"><span id="672" name="672">72</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=ZXDB201310148&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=ZXDB201310148" target="_blank">论高校图书馆学术团队建设</a>
+      </td>
+      <td>
+        古江华; 刘祥平
+      </td>
+      <td>
+       科技创新导报       
+      </td>
+      <td align="center">
+        2013-04-01
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!ZXDB201310148','6','72');" class="deleteicon">x</a></td></tr><tr id="LYTS201307019" name="LYTS201307019" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!LYTS201307019!73!6" checked="checked"><span id="673" name="673">73</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LYTS201307019&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=LYTS201307019" target="_blank">科技查新工作中隐性知识发现与挖掘过程研究</a>
+      </td>
+      <td>
+        封丽
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2013-07-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!LYTS201307019','6','73');" class="deleteicon">x</a></td></tr><tr id="TSQC201304008" name="TSQC201304008" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!TSQC201304008!74!6" checked="checked"><span id="674" name="674">74</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSQC201304008&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=TSQC201304008" target="_blank">图书馆组织气候测评的本土化量表开发</a>
+      </td>
+      <td>
+        郑德俊; 胡晓辉
+      </td>
+      <td>
+       图书情报知识       
+      </td>
+      <td align="center">
+        2013-07-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!TSQC201304008','6','74');" class="deleteicon">x</a></td></tr><tr id="KJXY201306018" name="KJXY201306018" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!KJXY201306018!75!6" checked="checked"><span id="675" name="675">75</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJXY201306018&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=KJXY201306018" target="_blank">基于和谐管理理论的图书馆危机管理研究</a>
+      </td>
+      <td>
+        张瑞玲
+      </td>
+      <td>
+       江苏科技信息       
+      </td>
+      <td align="center">
+        2013-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!KJXY201306018','6','75');" class="deleteicon">x</a></td></tr><tr id="ZXDB201316143" name="ZXDB201316143" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2013!ZXDB201316143!76!6" checked="checked"><span id="676" name="676">76</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=ZXDB201316143&amp;DbName=CJFD2013&amp;DbCode=CJFD&amp;id=&amp;file=ZXDB201316143" target="_blank">多载体文献信息资源的分编管理探讨</a>
+      </td>
+      <td>
+        古江华; 刘祥平
+      </td>
+      <td>
+       科技创新导报       
+      </td>
+      <td align="center">
+        2013-06-01
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2013!ZXDB201316143','6','76');" class="deleteicon">x</a></td></tr><tr id="MYKJ201309091" name="MYKJ201309091" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2013!MYKJ201309091!77!6" checked="checked"><span id="677" name="677">77</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=MYKJ201309091&amp;dbname=CJFD2013&amp;dbcode=CJFD&amp;id=&amp;file=MYKJ201309091" target="_blank">多校区图书典藏资源建设探析</a>
+      </td>
+      <td>
+        张峰; 王美珍
+      </td>
+      <td>
+       民营科技       
+      </td>
+      <td align="center">
+        2013-09-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2013!MYKJ201309091','6','77');" class="deleteicon">x</a></td></tr><tr id="JSTS201201018" name="JSTS201201018" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!JSTS201201018!78!6" checked="checked"><span id="678" name="678">78</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS201201018&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=JSTS201201018" target="_blank">流媒体信息服务在南京部分高校图书馆应用调查分析</a>
+      </td>
+      <td>
+        高冕; 许建业
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2012-01-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!JSTS201201018','6','78');" class="deleteicon">x</a></td></tr><tr id="JSTS201201019" name="JSTS201201019" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!JSTS201201019!79!6" checked="checked"><span id="679" name="679">79</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS201201019&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=JSTS201201019" target="_blank">数字化时代城市居民的阅读调查分析——以南京市六城区为例</a>
+      </td>
+      <td>
+        王勋; 施亮; 邹晶
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2012-01-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!JSTS201201019','6','79');" class="deleteicon">x</a></td></tr><tr id="TSGL201201030" name="TSGL201201030" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!TSGL201201030!80!6" checked="checked"><span id="680" name="680">80</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGL201201030&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=TSGL201201030" target="_blank">基于社会网络理论的高校图书馆数字资源联合服务战略及其实践</a>
+      </td>
+      <td>
+        高新陵
+      </td>
+      <td>
+       图书馆论坛       
+      </td>
+      <td align="center">
+        2012-01-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!TSGL201201030','6','80');" class="deleteicon">x</a></td></tr><tr id="TNGZ201201002" name="TNGZ201201002" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!TNGZ201201002!81!6" checked="checked"><span id="681" name="681">81</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ201201002&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ201201002" target="_blank">生命不会终止——图书馆存在下去的N个理由</a>
+      </td>
+      <td>
+        高新陵; 王正兴
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2012-01-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!TNGZ201201002','6','81');" class="deleteicon">x</a></td></tr><tr id="XDQB201202022" name="XDQB201202022" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!XDQB201202022!82!6" checked="checked"><span id="682" name="682">82</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDQB201202022&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=XDQB201202022" target="_blank">泛在环境下图书馆企业竞争情报服务模式研究</a>
+      </td>
+      <td>
+        封丽; 高冕
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2012-02-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!XDQB201202022','6','82');" class="deleteicon">x</a></td></tr><tr id="TNGZ201203007" name="TNGZ201203007" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!TNGZ201203007!83!6" checked="checked"><span id="683" name="683">83</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ201203007&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ201203007" target="_blank">台湾《中文图书分类法》通用复分表评介</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2012-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!TNGZ201203007','6','83');" class="deleteicon">x</a></td></tr><tr id="ZXLJ201212209" name="ZXLJ201212209" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!ZXLJ201212209!84!6" checked="checked"><span id="684" name="684">84</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=ZXLJ201212209&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=ZXLJ201212209" target="_blank">网络时代下的图书馆图书推荐模式</a>
+      </td>
+      <td>
+        冼怀灵; 张峰
+      </td>
+      <td>
+       科技资讯       
+      </td>
+      <td align="center">
+        2012-04-23
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!ZXLJ201212209','6','84');" class="deleteicon">x</a></td></tr><tr id="TSGG201206006" name="TSGG201206006" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!TSGG201206006!85!6" checked="checked"><span id="685" name="685">85</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGG201206006&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=TSGG201206006" target="_blank">图书情报机构联盟嵌入社会网络业务模式创新研究</a>
+      </td>
+      <td>
+        高新陵; 王正兴
+      </td>
+      <td>
+       图书馆工作与研究       
+      </td>
+      <td align="center">
+        2012-06-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!TSGG201206006','6','85');" class="deleteicon">x</a></td></tr><tr id="DFQY201209111" name="DFQY201209111" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!DFQY201209111!86!6" checked="checked"><span id="686" name="686">86</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=DFQY201209111&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=DFQY201209111" target="_blank">数字图书馆的模糊综合评价研究</a>
+      </td>
+      <td>
+        张瑞玲
+      </td>
+      <td>
+       东方企业文化       
+      </td>
+      <td align="center">
+        2012-05-08
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!DFQY201209111','6','86');" class="deleteicon">x</a></td></tr><tr id="LYTS201206015" name="LYTS201206015" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!LYTS201206015!87!6" checked="checked"><span id="687" name="687">87</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LYTS201206015&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=LYTS201206015" target="_blank">高校图书馆文献传递服务模式研究——以南京农业大学图书馆为例</a>
+      </td>
+      <td>
+        高冕
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2012-06-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!LYTS201206015','6','87');" class="deleteicon">x</a></td></tr><tr id="LYTS201206042" name="LYTS201206042" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!LYTS201206042!88!6" checked="checked"><span id="688" name="688">88</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201206042&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201206042" target="_blank">浅析查新管理系统对提高查新质量与效率的作用</a>
+      </td>
+      <td>
+        付天香
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2012-06-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!LYTS201206042','6','88');" class="deleteicon">x</a></td></tr><tr id="LYTS201206058" name="LYTS201206058" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!LYTS201206058!89!6" checked="checked"><span id="689" name="689">89</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=LYTS201206058&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=LYTS201206058" target="_blank">模糊综合评判在图书馆馆员绩效考评中的应用</a>
+      </td>
+      <td>
+        施亮
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2012-06-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!LYTS201206058','6','89');" class="deleteicon">x</a></td></tr><tr id="CFXB201214064" name="CFXB201214064" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!CFXB201214064!90!6" checked="checked"><span id="690" name="690">90</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=CFXB201214064&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=CFXB201214064" target="_blank">图书馆在城市和谐社区建设中的作用探究</a>
+      </td>
+      <td>
+        耿立芹
+      </td>
+      <td>
+       赤峰学院学报(自然科学版)       
+      </td>
+      <td align="center">
+        2012-07-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!CFXB201214064','6','90');" class="deleteicon">x</a></td></tr><tr id="KJDS201206111" name="KJDS201206111" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!KJDS201206111!91!6" checked="checked"><span id="691" name="691">91</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJDS201206111&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=KJDS201206111" target="_blank">图书馆办公室在图书馆日常管理中的重要作用</a>
+      </td>
+      <td>
+        邵之倩
+      </td>
+      <td>
+       科教导刊(上旬刊)       
+      </td>
+      <td align="center">
+        2012-06-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!KJDS201206111','6','91');" class="deleteicon">x</a></td></tr><tr id="KJQB201217016" name="KJQB201217016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!KJQB201217016!92!6" checked="checked"><span id="692" name="692">92</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201217016&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201217016" target="_blank">高校图书馆读书月活动的研究——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        施亮
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2012-09-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!KJQB201217016','6','92');" class="deleteicon">x</a></td></tr><tr id="CFXB201218069" name="CFXB201218069" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!CFXB201218069!93!6" checked="checked"><span id="693" name="693">93</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=CFXB201218069&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=CFXB201218069" target="_blank">科技查新中与用户信息沟通的重要性</a>
+      </td>
+      <td>
+        耿立芹
+      </td>
+      <td>
+       赤峰学院学报(自然科学版)       
+      </td>
+      <td align="center">
+        2012-09-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!CFXB201218069','6','93');" class="deleteicon">x</a></td></tr><tr id="LYTS201210032" name="LYTS201210032" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!LYTS201210032!94!6" checked="checked"><span id="694" name="694">94</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201210032&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201210032" target="_blank">图书馆微书评工作在数字阅读时代的模式探讨</a>
+      </td>
+      <td>
+        封丽
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2012-10-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!LYTS201210032','6','94');" class="deleteicon">x</a></td></tr><tr id="QBKX201210010" name="QBKX201210010" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!QBKX201210010!95!6" checked="checked"><span id="695" name="695">95</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBKX201210010&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=QBKX201210010" target="_blank">纸质文献资源与数字文献资源的整合比较研究</a>
+      </td>
+      <td>
+        高新陵
+      </td>
+      <td>
+       情报科学       
+      </td>
+      <td align="center">
+        2012-10-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!QBKX201210010','6','95');" class="deleteicon">x</a></td></tr><tr id="TSQB201213023" name="TSQB201213023" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!TSQB201213023!96!6" checked="checked"><span id="696" name="696">96</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSQB201213023&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=TSQB201213023" target="_blank">国内20所高校图书馆网站SEO现状调查研究</a>
+      </td>
+      <td>
+        杨小莉
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2012-07-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!TSQB201213023','6','96');" class="deleteicon">x</a></td></tr><tr id="DZKJ201209036" name="DZKJ201209036" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!DZKJ201209036!97!6" checked="checked"><span id="697" name="697">97</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=DZKJ201209036&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=DZKJ201209036" target="_blank">图书馆汇文系统内部表解析及应用</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       电子商务       
+      </td>
+      <td align="center">
+        2012-09-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!DZKJ201209036','6','97');" class="deleteicon">x</a></td></tr><tr id="KJWH201210116" name="KJWH201210116" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!KJWH201210116!98!6" checked="checked"><span id="698" name="698">98</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJWH201210116&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=KJWH201210116" target="_blank">图书馆消防安全管理工作之浅谈</a>
+      </td>
+      <td>
+        邵之倩
+      </td>
+      <td>
+       科教文汇(上旬刊)       
+      </td>
+      <td align="center">
+        2012-10-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!KJWH201210116','6','98');" class="deleteicon">x</a></td></tr><tr id="TSGX201210021" name="TSGX201210021" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!TSGX201210021!99!6" checked="checked"><span id="699" name="699">99</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGX201210021&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=TSGX201210021" target="_blank">依托信息共享空间推进高校图书馆学科馆员服务</a>
+      </td>
+      <td>
+        孙清玉; 吴东敏; 吴蕴惠
+      </td>
+      <td>
+       图书馆学刊       
+      </td>
+      <td align="center">
+        2012-10-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!TSGX201210021','6','99');" class="deleteicon">x</a></td></tr><tr id="WXHK201208154" name="WXHK201208154" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2012!WXHK201208154!100!6" checked="checked"><span id="6100" name="6100">100</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=WXHK201208154&amp;DbName=CJFD2012&amp;DbCode=CJFD&amp;id=&amp;file=WXHK201208154" target="_blank">BXP技术在高校图书馆电子阅览室中的应用</a>
+      </td>
+      <td>
+        郭晶
+      </td>
+      <td>
+       无线互联科技       
+      </td>
+      <td align="center">
+        2012-08-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2012!WXHK201208154','6','100');" class="deleteicon">x</a></td></tr><tr id="CXYY201234300" name="CXYY201234300" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2012!CXYY201234300!101!6" checked="checked"><span id="6101" name="6101">101</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=CXYY201234300&amp;dbname=CJFD2012&amp;dbcode=CJFD&amp;id=&amp;file=CXYY201234300" target="_blank">基于数据仓库的图书馆决策支持系统的实现与研究</a>
+      </td>
+      <td>
+        史宇清
+      </td>
+      <td>
+       科技创新与应用       
+      </td>
+      <td align="center">
+        2012-12-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2012!CXYY201234300','6','101');" class="deleteicon">x</a></td></tr><tr id="JSTS201101023" name="JSTS201101023" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!JSTS201101023!102!6" checked="checked"><span id="6102" name="6102">102</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS201101023&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=JSTS201101023" target="_blank">区域图书馆联合体应加强规划与多样性建设</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2011-01-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!JSTS201101023','6','102');" class="deleteicon">x</a></td></tr><tr id="KJQB201108018" name="KJQB201108018" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!KJQB201108018!103!6" checked="checked"><span id="6103" name="6103">103</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201108018&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201108018" target="_blank">汇文系统下西文期刊回溯建库技巧探究——以河海大学图书馆为例</a>
+      </td>
+      <td>
+        施亮; 王勋
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2011-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!KJQB201108018','6','103');" class="deleteicon">x</a></td></tr><tr id="SCZK201102009" name="SCZK201102009" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!SCZK201102009!104!6" checked="checked"><span id="6104" name="6104">104</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=SCZK201102009&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=SCZK201102009" target="_blank">高校图书馆读者服务工作的思考</a>
+      </td>
+      <td>
+        刘忠锦
+      </td>
+      <td>
+       市场周刊(理论研究)       
+      </td>
+      <td align="center">
+        2011-02-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!SCZK201102009','6','104');" class="deleteicon">x</a></td></tr><tr id="SCZK201103014" name="SCZK201103014" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!SCZK201103014!105!6" checked="checked"><span id="6105" name="6105">105</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=SCZK201103014&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=SCZK201103014" target="_blank">高校图书馆读者服务语言技巧探讨</a>
+      </td>
+      <td>
+        刘忠锦
+      </td>
+      <td>
+       市场周刊(理论研究)       
+      </td>
+      <td align="center">
+        2011-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!SCZK201103014','6','105');" class="deleteicon">x</a></td></tr><tr id="JSTS201103022" name="JSTS201103022" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!JSTS201103022!106!6" checked="checked"><span id="6106" name="6106">106</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS201103022&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=JSTS201103022" target="_blank">中美高校图书馆学科馆员队伍建设与管理比较研究</a>
+      </td>
+      <td>
+        高新陵
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2011-03-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!JSTS201103022','6','106');" class="deleteicon">x</a></td></tr><tr id="KJQB201120002" name="KJQB201120002" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!KJQB201120002!107!6" checked="checked"><span id="6107" name="6107">107</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB201120002&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=KJQB201120002" target="_blank">高校图书馆读者满意度的实证研究</a>
+      </td>
+      <td>
+        张瑞玲; 夏达忠; 齐师杰
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2011-07-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!KJQB201120002','6','107');" class="deleteicon">x</a></td></tr><tr id="KJQB201120014" name="KJQB201120014" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!KJQB201120014!108!6" checked="checked"><span id="6108" name="6108">108</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201120014&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201120014" target="_blank">图书馆员的职业生涯规划研究</a>
+      </td>
+      <td>
+        史姝杰; 冼怀灵
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2011-07-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!KJQB201120014','6','108');" class="deleteicon">x</a></td></tr><tr id="SLFZ201106017" name="SLFZ201106017" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!SLFZ201106017!109!6" checked="checked"><span id="6109" name="6109">109</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=SLFZ201106017&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=SLFZ201106017" target="_blank">基于问题的水利文献信息系统服务模式研究</a>
+      </td>
+      <td>
+        高新陵; 谢友宁; 江静
+      </td>
+      <td>
+       水利发展研究       
+      </td>
+      <td align="center">
+        2011-06-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!SLFZ201106017','6','109');" class="deleteicon">x</a></td></tr><tr id="KJQB201123003" name="KJQB201123003" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!KJQB201123003!110!6" checked="checked"><span id="6110" name="6110">110</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201123003&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201123003" target="_blank">西文期刊回溯建库的实践与思考</a>
+      </td>
+      <td>
+        郭晶; 李萍
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2011-08-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!KJQB201123003','6','110');" class="deleteicon">x</a></td></tr><tr id="XDQB201108025" name="XDQB201108025" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!XDQB201108025!111!6" checked="checked"><span id="6111" name="6111">111</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XDQB201108025&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=XDQB201108025" target="_blank">高校图书馆流媒体信息服务模式初探——以南京地区部分高校实践为例</a>
+      </td>
+      <td>
+        高冕
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2011-08-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!XDQB201108025','6','111');" class="deleteicon">x</a></td></tr><tr id="XDQB201109035" name="XDQB201109035" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!XDQB201109035!112!6" checked="checked"><span id="6112" name="6112">112</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDQB201109035&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=XDQB201109035" target="_blank">高校图书馆文献传递服务现状分析</a>
+      </td>
+      <td>
+        高冕; 封丽; 任延安
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2011-09-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!XDQB201109035','6','112');" class="deleteicon">x</a></td></tr><tr id="TSWK201103010" name="TSWK201103010" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!TSWK201103010!113!6" checked="checked"><span id="6113" name="6113">113</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSWK201103010&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=TSWK201103010" target="_blank">学科分类的实践及思考</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       图书情报工作网刊       
+      </td>
+      <td align="center">
+        2011-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!TSWK201103010','6','113');" class="deleteicon">x</a></td></tr><tr id="TSWK201104007" name="TSWK201104007" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!TSWK201104007!114!6" checked="checked"><span id="6114" name="6114">114</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSWK201104007&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=TSWK201104007" target="_blank">学科分类的实践及思考</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       图书情报工作网刊       
+      </td>
+      <td align="center">
+        2011-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!TSWK201104007','6','114');" class="deleteicon">x</a></td></tr><tr id="QBTS201111001" name="QBTS201111001" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!QBTS201111001!115!6" checked="checked"><span id="6115" name="6115">115</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBTS201111001&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=QBTS201111001" target="_blank">高校图书馆参考咨询人员绩效评价指标体系研究</a>
+      </td>
+      <td>
+        孙清玉; 高新陵; 吴东敏
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2011-11-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!QBTS201111001','6','115');" class="deleteicon">x</a></td></tr><tr id="TSSS201124016" name="TSSS201124016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!TSSS201124016!116!6" checked="checked"><span id="6116" name="6116">116</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSSS201124016&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=TSSS201124016" target="_blank">图书馆馆编导读刊物刍议</a>
+      </td>
+      <td>
+        封丽
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2011-12-23
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!TSSS201124016','6','116');" class="deleteicon">x</a></td></tr><tr id="QBZZ201112031" name="QBZZ201112031" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2011!QBZZ201112031!117!6" checked="checked"><span id="6117" name="6117">117</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBZZ201112031&amp;dbname=CJFD2011&amp;dbcode=CJFD&amp;id=&amp;file=QBZZ201112031" target="_blank">分层构建多重嵌入  迭代优化桥接细化——江苏省高校图书馆联盟网络化建设研究</a>
+      </td>
+      <td>
+        高新陵; 王正兴; 吴东敏; 谢友宁
+      </td>
+      <td>
+       情报杂志       
+      </td>
+      <td align="center">
+        2011-12-18
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2011!QBZZ201112031','6','117');" class="deleteicon">x</a></td></tr><tr id="QBZL201106016" name="QBZL201106016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2011!QBZL201106016!118!6" checked="checked"><span id="6118" name="6118">118</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBZL201106016&amp;DbName=CJFD2011&amp;DbCode=CJFD&amp;id=&amp;file=QBZL201106016" target="_blank">社会网络理论及其工具支持下的高校图书馆联合参考咨询模式研究</a>
+      </td>
+      <td>
+        高新陵; 王正兴
+      </td>
+      <td>
+       情报资料工作       
+      </td>
+      <td align="center">
+        2011-11-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2011!QBZL201106016','6','118');" class="deleteicon">x</a></td></tr><tr id="XDQB201003033" name="XDQB201003033" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2010!XDQB201003033!119!6" checked="checked"><span id="6119" name="6119">119</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XDQB201003033&amp;dbname=CJFD2010&amp;dbcode=CJFD&amp;id=&amp;file=XDQB201003033" target="_blank">学术不端检测对图书馆工作的影响</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2010-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2010!XDQB201003033','6','119');" class="deleteicon">x</a></td></tr><tr id="TSSS201007014" name="TSSS201007014" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2010!TSSS201007014!120!6" checked="checked"><span id="6120" name="6120">120</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSSS201007014&amp;DbName=CJFD2010&amp;DbCode=CJFD&amp;id=&amp;file=TSSS201007014" target="_blank">科技查新质量评价指标标准值确定方法的研究</a>
+      </td>
+      <td>
+        孙清玉
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2010-04-08
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2010!TSSS201007014','6','120');" class="deleteicon">x</a></td></tr><tr id="WLCF201007081" name="WLCF201007081" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2010!WLCF201007081!121!6" checked="checked"><span id="6121" name="6121">121</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=WLCF201007081&amp;dbname=CJFD2010&amp;dbcode=CJFD&amp;id=&amp;file=WLCF201007081" target="_blank">非书资源管理系统的应用与研究</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       网络财富       
+      </td>
+      <td align="center">
+        2010-04-08
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2010!WLCF201007081','6','121');" class="deleteicon">x</a></td></tr><tr id="KJQB201022004" name="KJQB201022004" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2010!KJQB201022004!122!6" checked="checked"><span id="6122" name="6122">122</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB201022004&amp;DbName=CJFD2010&amp;DbCode=CJFD&amp;id=&amp;file=KJQB201022004" target="_blank">网络环境下优化高校图书馆流通工作的思考</a>
+      </td>
+      <td>
+        胡晓辉
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2010-08-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2010!KJQB201022004','6','122');" class="deleteicon">x</a></td></tr><tr id="XXJK201019084" name="XXJK201019084" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2010!XXJK201019084!123!6" checked="checked"><span id="6123" name="6123">123</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XXJK201019084&amp;dbname=CJFD2010&amp;dbcode=CJFD&amp;id=&amp;file=XXJK201019084" target="_blank">图书采购招标评标优化决策模型研究</a>
+      </td>
+      <td>
+        缪英杰; 潘江波
+      </td>
+      <td>
+       中国科技信息       
+      </td>
+      <td align="center">
+        2010-10-01
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2010!XXJK201019084','6','123');" class="deleteicon">x</a></td></tr><tr id="LYTS201009065" name="LYTS201009065" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2010!LYTS201009065!124!6" checked="checked"><span id="6124" name="6124">124</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS201009065&amp;DbName=CJFD2010&amp;DbCode=CJFD&amp;id=&amp;file=LYTS201009065" target="_blank">提高科技论文关键词标引质量的探讨</a>
+      </td>
+      <td>
+        吴立志
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2010-09-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2010!LYTS201009065','6','124');" class="deleteicon">x</a></td></tr><tr id="KJYZ201006025" name="KJYZ201006025" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2010!KJYZ201006025!125!6" checked="checked"><span id="6125" name="6125">125</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJYZ201006025&amp;dbname=CJFD2010&amp;dbcode=CJFD&amp;id=&amp;file=KJYZ201006025" target="_blank">《中国图书馆分类法》(第5版)通用复分表修订评介</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       科技与经济       
+      </td>
+      <td align="center">
+        2010-12-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2010!KJYZ201006025','6','125');" class="deleteicon">x</a></td></tr><tr id="QBTS200901010" name="QBTS200901010" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!QBTS200901010!126!6" checked="checked"><span id="6126" name="6126">126</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS200901010&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=QBTS200901010" target="_blank">论信息素质教育与创新人才培养</a>
+      </td>
+      <td>
+        高新陵; 吴东敏
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2009-01-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!QBTS200901010','6','126');" class="deleteicon">x</a></td></tr><tr id="WLCF200901073" name="WLCF200901073" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!WLCF200901073!127!6" checked="checked"><span id="6127" name="6127">127</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=WLCF200901073&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=WLCF200901073" target="_blank">图书馆数据安全漏洞分析</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       网络财富       
+      </td>
+      <td align="center">
+        2009-01-08
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!WLCF200901073','6','127');" class="deleteicon">x</a></td></tr><tr id="QBKX200905025" name="QBKX200905025" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!QBKX200905025!128!6" checked="checked"><span id="6128" name="6128">128</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBKX200905025&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=QBKX200905025" target="_blank">科技查新质量评价指标体系探讨</a>
+      </td>
+      <td>
+        孙清玉
+      </td>
+      <td>
+       情报科学       
+      </td>
+      <td align="center">
+        2009-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!QBKX200905025','6','128');" class="deleteicon">x</a></td></tr><tr id="KJQB200913014" name="KJQB200913014" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!KJQB200913014!129!6" checked="checked"><span id="6129" name="6129">129</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB200913014&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=KJQB200913014" target="_blank">浅谈高校图书馆的公共安全问题和应急机制</a>
+      </td>
+      <td>
+        封丽; 田剑君
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2009-05-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!KJQB200913014','6','129');" class="deleteicon">x</a></td></tr><tr id="LYTS200906039" name="LYTS200906039" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!LYTS200906039!130!6" checked="checked"><span id="6130" name="6130">130</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS200906039&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=LYTS200906039" target="_blank">浅析数字图书馆在社会终身教育中扮演的角色</a>
+      </td>
+      <td>
+        付天香
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2009-06-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!LYTS200906039','6','130');" class="deleteicon">x</a></td></tr><tr id="TSQB200907020" name="TSQB200907020" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!TSQB200907020!131!6" checked="checked"><span id="6131" name="6131">131</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSQB200907020&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=TSQB200907020" target="_blank">数据库的引进与反思——写在CALIS引进数据库十周年之际</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2009-04-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!TSQB200907020','6','131');" class="deleteicon">x</a></td></tr><tr id="XDQB200906001" name="XDQB200906001" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!XDQB200906001!132!6" checked="checked"><span id="6132" name="6132">132</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDQB200906001&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=XDQB200906001" target="_blank">学术论文关键词的概念及标引方法辨析</a>
+      </td>
+      <td>
+        吴立志
+      </td>
+      <td>
+       现代情报       
+      </td>
+      <td align="center">
+        2009-06-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!XDQB200906001','6','132');" class="deleteicon">x</a></td></tr><tr id="KJWZ200906256" name="KJWZ200906256" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!KJWZ200906256!133!6" checked="checked"><span id="6133" name="6133">133</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJWZ200906256&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=KJWZ200906256" target="_blank">期刊装订目录的制作以及期刊下架的几点思考</a>
+      </td>
+      <td>
+        马大勇; 胡晓辉
+      </td>
+      <td>
+       科教文汇(中旬刊)       
+      </td>
+      <td align="center">
+        2009-06-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!KJWZ200906256','6','133');" class="deleteicon">x</a></td></tr><tr id="LYTS200909048" name="LYTS200909048" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!LYTS200909048!134!6" checked="checked"><span id="6134" name="6134">134</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=LYTS200909048&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=LYTS200909048" target="_blank">江苏高校图书馆开展大学生信息素质教育的调查研究</a>
+      </td>
+      <td>
+        吴东敏; 孙清玉; 洪建
+      </td>
+      <td>
+       农业图书情报学刊       
+      </td>
+      <td align="center">
+        2009-09-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!LYTS200909048','6','134');" class="deleteicon">x</a></td></tr><tr id="TSQB200915025" name="TSQB200915025" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!TSQB200915025!135!6" checked="checked"><span id="6135" name="6135">135</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSQB200915025&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=TSQB200915025" target="_blank">《中文新闻信息分类与代码》复分表评介——兼与《中国图书馆分类法》比较</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2009-08-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!TSQB200915025','6','135');" class="deleteicon">x</a></td></tr><tr id="TSGJ200911013" name="TSGJ200911013" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!TSGJ200911013!136!6" checked="checked"><span id="6136" name="6136">136</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGJ200911013&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=TSGJ200911013" target="_blank">《中国图书馆分类法》(第4版)地区复分表的改造</a>
+      </td>
+      <td>
+        周冰; 侯汉清
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        2009-11-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!TSGJ200911013','6','136');" class="deleteicon">x</a></td></tr><tr id="JTXU200906013" name="JTXU200906013" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!JTXU200906013!137!6" checked="checked"><span id="6137" name="6137">137</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JTXU200906013&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=JTXU200906013" target="_blank">开放存取与高校图书馆的外文期刊工作</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       晋图学刊       
+      </td>
+      <td align="center">
+        2009-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!JTXU200906013','6','137');" class="deleteicon">x</a></td></tr><tr id="KJQB200929019" name="KJQB200929019" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2009!KJQB200929019!138!6" checked="checked"><span id="6138" name="6138">138</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB200929019&amp;DbName=CJFD2009&amp;DbCode=CJFD&amp;id=&amp;file=KJQB200929019" target="_blank">论高校图书馆如何有效服务于教学与科研</a>
+      </td>
+      <td>
+        王冰花
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2009-10-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2009!KJQB200929019','6','138');" class="deleteicon">x</a></td></tr><tr id="TSQB2009S2021" name="TSQB2009S2021" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2009!TSQB2009S2021!139!6" checked="checked"><span id="6139" name="6139">139</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSQB2009S2021&amp;dbname=CJFD2009&amp;dbcode=CJFD&amp;id=&amp;file=TSQB2009S2021" target="_blank">图书馆特色数据库系统的实现</a>
+      </td>
+      <td>
+        史宇清; 王美珍
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2009-12-23
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2009!TSQB2009S2021','6','139');" class="deleteicon">x</a></td></tr><tr id="QBTS200812055" name="QBTS200812055" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2008!QBTS200812055!140!6" checked="checked"><span id="6140" name="6140">140</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS200812055&amp;DbName=CJFD2008&amp;DbCode=CJFD&amp;id=&amp;file=QBTS200812055" target="_blank">网络环境下高校图书馆开展二次文献服务的思考——以河海大学图书馆的实践为例</a>
+      </td>
+      <td>
+        余清芬
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2008-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2008!QBTS200812055','6','140');" class="deleteicon">x</a></td></tr><tr id="JSTS200806035" name="JSTS200806035" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2008!JSTS200806035!141!6" checked="checked"><span id="6141" name="6141">141</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200806035&amp;dbname=CJFD2008&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200806035" target="_blank">1999—2008年江苏高校图书馆知识服务的认识与实践——江苏高校情报咨询专业委员会第十次学术研讨综述</a>
+      </td>
+      <td>
+        杨晓宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2008-11-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2008!JSTS200806035','6','141');" class="deleteicon">x</a></td></tr><tr id="KJQB200820023" name="KJQB200820023" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2008!KJQB200820023!142!6" checked="checked"><span id="6142" name="6142">142</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB200820023&amp;DbName=CJFD2008&amp;DbCode=CJFD&amp;id=&amp;file=KJQB200820023" target="_blank">怎样选择学科导航的著录网页</a>
+      </td>
+      <td>
+        高依旻; 蔡明
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2008-07-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2008!KJQB200820023','6','142');" class="deleteicon">x</a></td></tr><tr id="NMKJ200817098" name="NMKJ200817098" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2008!NMKJ200817098!143!6" checked="checked"><span id="6143" name="6143">143</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=NMKJ200817098&amp;dbname=CJFD2008&amp;dbcode=CJFD&amp;id=&amp;file=NMKJ200817098" target="_blank">浅议网络环境下高校图书馆读者服务工作</a>
+      </td>
+      <td>
+        杨小莉
+      </td>
+      <td>
+       内蒙古科技与经济       
+      </td>
+      <td align="center">
+        2008-09-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2008!NMKJ200817098','6','143');" class="deleteicon">x</a></td></tr><tr id="ZXTS200808007" name="ZXTS200808007" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2008!ZXTS200808007!144!6" checked="checked"><span id="6144" name="6144">144</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=ZXTS200808007&amp;DbName=CJFD2008&amp;DbCode=CJFD&amp;id=&amp;file=ZXTS200808007" target="_blank">做好少儿图书馆工作——培养少儿阅读兴趣,提高少儿阅读能力</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       中小学图书情报世界       
+      </td>
+      <td align="center">
+        2008-08-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2008!ZXTS200808007','6','144');" class="deleteicon">x</a></td></tr><tr id="JSTS200805023" name="JSTS200805023" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2008!JSTS200805023!145!6" checked="checked"><span id="6145" name="6145">145</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200805023&amp;dbname=CJFD2008&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200805023" target="_blank">网络时代高校图书馆外刊资源的管理</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2008-09-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2008!JSTS200805023','6','145');" class="deleteicon">x</a></td></tr><tr id="KJXY200710015" name="KJXY200710015" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2007!KJXY200710015!146!6" checked="checked"><span id="6146" name="6146">146</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJXY200710015&amp;DbName=CJFD2007&amp;DbCode=CJFD&amp;id=&amp;file=KJXY200710015" target="_blank">高校图书馆建设网络资源学科导航库的调查研究</a>
+      </td>
+      <td>
+        杨晓宁; 林峥
+      </td>
+      <td>
+       江苏科技信息       
+      </td>
+      <td align="center">
+        2007-10-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2007!KJXY200710015','6','146');" class="deleteicon">x</a></td></tr><tr id="SZDX200701034" name="SZDX200701034" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2007!SZDX200701034!147!6" checked="checked"><span id="6147" name="6147">147</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=SZDX200701034&amp;dbname=cjfd2007&amp;dbcode=CJFD&amp;id=&amp;file=SZDX200701034" target="_blank">中文期刊数据库回溯建设实践探讨</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       苏州大学学报(哲学社会科学版)       
+      </td>
+      <td align="center">
+        2007-01-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2007!SZDX200701034','6','147');" class="deleteicon">x</a></td></tr><tr id="TSSS200701028" name="TSSS200701028" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2007!TSSS200701028!148!6" checked="checked"><span id="6148" name="6148">148</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSSS200701028&amp;DbName=cjfd2007&amp;DbCode=CJFD&amp;id=&amp;file=TSSS200701028" target="_blank">高校图书馆信息素质教育研究的文献计量分析</a>
+      </td>
+      <td>
+        孙清玉
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2007-01-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2007!TSSS200701028','6','148');" class="deleteicon">x</a></td></tr><tr id="TNGZ200707004" name="TNGZ200707004" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2007!TNGZ200707004!149!6" checked="checked"><span id="6149" name="6149">149</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ200707004&amp;dbname=cjfd2007&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ200707004" target="_blank">从认识民间读书报刊的价值到图书馆的内部刊物搜藏</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2007-07-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2007!TNGZ200707004','6','149');" class="deleteicon">x</a></td></tr><tr id="TSQB200709036" name="TSQB200709036" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2007!TSQB200709036!150!6" checked="checked"><span id="6150" name="6150">150</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSQB200709036&amp;DbName=CJFD2007&amp;DbCode=CJFD&amp;id=&amp;file=TSQB200709036" target="_blank">由80/20到九法则所想到的</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2007-09-18
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2007!TSQB200709036','6','150');" class="deleteicon">x</a></td></tr><tr id="KJQB200730049" name="KJQB200730049" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2007!KJQB200730049!151!6" checked="checked"><span id="6151" name="6151">151</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB200730049&amp;dbname=CJFD2007&amp;dbcode=CJFD&amp;id=&amp;file=KJQB200730049" target="_blank">对网络环境下高校图书馆工作的新思考</a>
+      </td>
+      <td>
+        吴立志
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2007-10-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2007!KJQB200730049','6','151');" class="deleteicon">x</a></td></tr><tr id="JSTS200604022" name="JSTS200604022" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2006!JSTS200604022!152!6" checked="checked"><span id="6152" name="6152">152</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS200604022&amp;DbName=cjfd2006&amp;DbCode=CJFD&amp;id=&amp;file=JSTS200604022" target="_blank">香港大学与内地大学图书馆之比较</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2006-07-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2006!JSTS200604022','6','152');" class="deleteicon">x</a></td></tr><tr id="KJQB200612005" name="KJQB200612005" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2006!KJQB200612005!153!6" checked="checked"><span id="6153" name="6153">153</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB200612005&amp;dbname=cjfd2006&amp;dbcode=CJFD&amp;id=&amp;file=KJQB200612005" target="_blank">数字化图书馆的构成要素</a>
+      </td>
+      <td>
+        孙清玉
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2006-04-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2006!KJQB200612005','6','153');" class="deleteicon">x</a></td></tr><tr id="QBLL200604016" name="QBLL200604016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2006!QBLL200604016!154!6" checked="checked"><span id="6154" name="6154">154</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBLL200604016&amp;DbName=cjfd2006&amp;DbCode=CJFD&amp;id=&amp;file=QBLL200604016" target="_blank">学科导航数据库建设中的资源选择</a>
+      </td>
+      <td>
+        吴东敏; 肖东
+      </td>
+      <td>
+       情报理论与实践       
+      </td>
+      <td align="center">
+        2006-07-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2006!QBLL200604016','6','154');" class="deleteicon">x</a></td></tr><tr id="KJWH200609116" name="KJWH200609116" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2006!KJWH200609116!155!6" checked="checked"><span id="6155" name="6155">155</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJWH200609116&amp;dbname=cjfd2006&amp;dbcode=CJFD&amp;id=&amp;file=KJWH200609116" target="_blank">图书馆知识管理及其实施策略</a>
+      </td>
+      <td>
+        田剑君
+      </td>
+      <td>
+       科教文汇(上半月)       
+      </td>
+      <td align="center">
+        2006-09-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2006!KJWH200609116','6','155');" class="deleteicon">x</a></td></tr><tr id="KJQB200511062" name="KJQB200511062" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2005!KJQB200511062!156!6" checked="checked"><span id="6156" name="6156">156</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=KJQB200511062&amp;DbName=CJFD2005&amp;DbCode=CJFD&amp;id=&amp;file=KJQB200511062" target="_blank">图书馆编目工作效率探究</a>
+      </td>
+      <td>
+        刘祥平
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2005-06-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2005!KJQB200511062','6','156');" class="deleteicon">x</a></td></tr><tr id="SCTL200507027" name="SCTL200507027" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2005!SCTL200507027!157!6" checked="checked"><span id="6157" name="6157">157</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=SCTL200507027&amp;dbname=CJFD2005&amp;dbcode=CJFD&amp;id=&amp;file=SCTL200507027" target="_blank">高校图书馆人力资本的投入产出及效益评估</a>
+      </td>
+      <td>
+        宋艺丁
+      </td>
+      <td>
+       市场周刊(管理探索)       
+      </td>
+      <td align="center">
+        2005-07-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2005!SCTL200507027','6','157');" class="deleteicon">x</a></td></tr><tr id="SCTL200507042" name="SCTL200507042" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2005!SCTL200507042!158!6" checked="checked"><span id="6158" name="6158">158</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=SCTL200507042&amp;DbName=CJFD2005&amp;DbCode=CJFD&amp;id=&amp;file=SCTL200507042" target="_blank">浅析如何提高高校图书馆的服务质量</a>
+      </td>
+      <td>
+        吴蕴惠; 吴蕴臻
+      </td>
+      <td>
+       市场周刊(管理探索)       
+      </td>
+      <td align="center">
+        2005-07-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2005!SCTL200507042','6','158');" class="deleteicon">x</a></td></tr><tr id="XDTQ200508024" name="XDTQ200508024" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2005!XDTQ200508024!159!6" checked="checked"><span id="6159" name="6159">159</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XDTQ200508024&amp;dbname=CJFD2005&amp;dbcode=CJFD&amp;id=&amp;file=XDTQ200508024" target="_blank">学位论文数据库结构及应用分析</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       现代图书情报技术       
+      </td>
+      <td align="center">
+        2005-08-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2005!XDTQ200508024','6','159');" class="deleteicon">x</a></td></tr><tr id="SCZK200512052" name="SCZK200512052" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2005!SCZK200512052!160!6" checked="checked"><span id="6160" name="6160">160</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=SCZK200512052&amp;DbName=CJFD2005&amp;DbCode=CJFD&amp;id=&amp;file=SCZK200512052" target="_blank">图书管理信息化系统结构与数据库建设的探讨</a>
+      </td>
+      <td>
+        吴蕴惠
+      </td>
+      <td>
+       市场周刊(研究版)       
+      </td>
+      <td align="center">
+        2005-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2005!SCZK200512052','6','160');" class="deleteicon">x</a></td></tr><tr id="TSSS200511028" name="TSSS200511028" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2005!TSSS200511028!161!6" checked="checked"><span id="6161" name="6161">161</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSSS200511028&amp;dbname=CJFD2005&amp;dbcode=CJFD&amp;id=&amp;file=TSSS200511028" target="_blank">旧书业的兴衰与社会文化变迁——评《中国旧书业百年》</a>
+      </td>
+      <td>
+        武晓峰
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2005-11-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2005!TSSS200511028','6','161');" class="deleteicon">x</a></td></tr><tr id="TNGZ200505008" name="TNGZ200505008" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2005!TNGZ200505008!162!6" checked="checked"><span id="6162" name="6162">162</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TNGZ200505008&amp;DbName=CJFD2005&amp;DbCode=CJFD&amp;id=&amp;file=TNGZ200505008" target="_blank">基于用户的数字资源整合模式研究</a>
+      </td>
+      <td>
+        高新陵; 谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2005-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2005!TNGZ200505008','6','162');" class="deleteicon">x</a></td></tr><tr id="JSTS200501013" name="JSTS200501013" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2005!JSTS200501013!163!6" checked="checked"><span id="6163" name="6163">163</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200501013&amp;dbname=CJFD2005&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200501013" target="_blank">OCLC的最新发展战略</a>
+      </td>
+      <td>
+        杨晓宁; 高依旻
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2005-02-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2005!JSTS200501013','6','163');" class="deleteicon">x</a></td></tr><tr id="XDTQ200501024" name="XDTQ200501024" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2005!XDTQ200501024!164!6" checked="checked"><span id="6164" name="6164">164</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDTQ200501024&amp;DbName=CJFD2005&amp;DbCode=CJFD&amp;id=&amp;file=XDTQ200501024" target="_blank">用VB6分解MARC产生的问题及解决办法</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       现代图书情报技术       
+      </td>
+      <td align="center">
+        2005-01-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2005!XDTQ200501024','6','164');" class="deleteicon">x</a></td></tr><tr id="KJQB20040600H" name="KJQB20040600H" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2004!KJQB20040600H!165!6" checked="checked"><span id="6165" name="6165">165</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=KJQB20040600H&amp;dbname=CJFD2004&amp;dbcode=CJFD&amp;id=&amp;file=KJQB20040600H" target="_blank">科技查新检索结论的作用与表述</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       科技情报开发与经济       
+      </td>
+      <td align="center">
+        2004-06-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2004!KJQB20040600H','6','165');" class="deleteicon">x</a></td></tr><tr id="QBTS200403023" name="QBTS200403023" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2004!QBTS200403023!166!6" checked="checked"><span id="6166" name="6166">166</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBTS200403023&amp;DbName=CJFD2004&amp;DbCode=CJFD&amp;id=&amp;file=QBTS200403023" target="_blank">科技查新与知识产权保护的互动作用</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       情报探索       
+      </td>
+      <td align="center">
+        2004-09-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2004!QBTS200403023','6','166');" class="deleteicon">x</a></td></tr><tr id="TSSS200408024" name="TSSS200408024" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2004!TSSS200408024!167!6" checked="checked"><span id="6167" name="6167">167</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSSS200408024&amp;dbname=CJFD2004&amp;dbcode=CJFD&amp;id=&amp;file=TSSS200408024" target="_blank">科技查新的质量控制</a>
+      </td>
+      <td>
+        孙清玉
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2004-08-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2004!TSSS200408024','6','167');" class="deleteicon">x</a></td></tr><tr id="QBZL2004S1215" name="QBZL2004S1215" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2004!QBZL2004S1215!168!6" checked="checked"><span id="6168" name="6168">168</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBZL2004S1215&amp;DbName=CJFD2004&amp;DbCode=CJFD&amp;id=&amp;file=QBZL2004S1215" target="_blank">查新检索结论的原则及表述</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       情报资料工作       
+      </td>
+      <td align="center">
+        2004-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2004!QBZL2004S1215','6','168');" class="deleteicon">x</a></td></tr><tr id="QBZL200305009" name="QBZL200305009" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2003!QBZL200305009!169!6" checked="checked"><span id="6169" name="6169">169</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBZL200305009&amp;dbname=CJFD2003&amp;dbcode=CJFD&amp;id=&amp;file=QBZL200305009" target="_blank">IDC与数字图书馆建设</a>
+      </td>
+      <td>
+        余清芬
+      </td>
+      <td>
+       情报资料工作       
+      </td>
+      <td align="center">
+        2003-09-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2003!QBZL200305009','6','169');" class="deleteicon">x</a></td></tr><tr id="TSGJ200302053" name="TSGJ200302053" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2003!TSGJ200302053!170!6" checked="checked"><span id="6170" name="6170">170</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGJ200302053&amp;DbName=CJFD2003&amp;DbCode=CJFD&amp;id=&amp;file=TSGJ200302053" target="_blank">师者,解惑也——读《南京大学百年学术精品——图书馆学卷》</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        2003-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2003!TSGJ200302053','6','170');" class="deleteicon">x</a></td></tr><tr id="JSTS200304011" name="JSTS200304011" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2003!JSTS200304011!171!6" checked="checked"><span id="6171" name="6171">171</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200304011&amp;dbname=CJFD2003&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200304011" target="_blank">加强文献资源共享——江苏省高校通用借书证工作研究</a>
+      </td>
+      <td>
+        吴立志
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2003-08-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2003!JSTS200304011','6','171');" class="deleteicon">x</a></td></tr><tr id="JSTS200305011" name="JSTS200305011" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2003!JSTS200305011!172!6" checked="checked"><span id="6172" name="6172">172</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS200305011&amp;DbName=CJFD2003&amp;DbCode=CJFD&amp;id=&amp;file=JSTS200305011" target="_blank">国外数据库引进现状、问题与对策</a>
+      </td>
+      <td>
+        余清芬
+      </td>
+      <td>
+       新世纪图书馆       
+      </td>
+      <td align="center">
+        2003-10-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2003!JSTS200305011','6','172');" class="deleteicon">x</a></td></tr><tr id="TSSS200310007" name="TSSS200310007" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2003!TSSS200310007!173!6" checked="checked"><span id="6173" name="6173">173</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSSS200310007&amp;dbname=CJFD2003&amp;dbcode=CJFD&amp;id=&amp;file=TSSS200310007" target="_blank">利用汇文系统进行外文图书回溯建库</a>
+      </td>
+      <td>
+        彭桃英
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        2003-10-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2003!TSSS200310007','6','173');" class="deleteicon">x</a></td></tr><tr id="HHZX200304028" name="HHZX200304028" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2003!HHZX200304028!174!6" checked="checked"><span id="6174" name="6174">174</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HHZX200304028&amp;DbName=CJFD2003&amp;DbCode=CJFD&amp;id=&amp;file=HHZX200304028" target="_blank">市场经济体制下高校图书馆中文采访问题与对策</a>
+      </td>
+      <td>
+        余清芬
+      </td>
+      <td>
+       河海大学学报(哲学社会科学版)       
+      </td>
+      <td align="center">
+        2003-12-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2003!HHZX200304028','6','174');" class="deleteicon">x</a></td></tr><tr id="HHZX200304029" name="HHZX200304029" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2003!HHZX200304029!175!6" checked="checked"><span id="6175" name="6175">175</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=HHZX200304029&amp;dbname=CJFD2003&amp;dbcode=CJFD&amp;id=&amp;file=HHZX200304029" target="_blank">高校图书馆现代化建设的探讨</a>
+      </td>
+      <td>
+        彭桃英
+      </td>
+      <td>
+       河海大学学报(哲学社会科学版)       
+      </td>
+      <td align="center">
+        2003-12-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2003!HHZX200304029','6','175');" class="deleteicon">x</a></td></tr><tr id="XDTQ2003S2040" name="XDTQ2003S2040" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2003!XDTQ2003S2040!176!6" checked="checked"><span id="6176" name="6176">176</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDTQ2003S2040&amp;DbName=CJFD2003&amp;DbCode=CJFD&amp;id=&amp;file=XDTQ2003S2040" target="_blank">河海大学图书馆的网络建设与维护</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       现代图书情报技术       
+      </td>
+      <td align="center">
+        2003-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2003!XDTQ2003S2040','6','176');" class="deleteicon">x</a></td></tr><tr id="TNGZ200302010" name="TNGZ200302010" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2003!TNGZ200302010!177!6" checked="checked"><span id="6177" name="6177">177</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ200302010&amp;dbname=CJFD2003&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ200302010" target="_blank">国外连续出版物与知识管理平台构建</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2003-02-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2003!TNGZ200302010','6','177');" class="deleteicon">x</a></td></tr><tr id="TNGZ200310008" name="TNGZ200310008" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2003!TNGZ200310008!178!6" checked="checked"><span id="6178" name="6178">178</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TNGZ200310008&amp;DbName=CJFD2003&amp;DbCode=CJFD&amp;id=&amp;file=TNGZ200310008" target="_blank">文献采购招标投标可行性研究</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2003-10-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2003!TNGZ200310008','6','178');" class="deleteicon">x</a></td></tr><tr id="QBKX200208034" name="QBKX200208034" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2002!QBKX200208034!179!6" checked="checked"><span id="6179" name="6179">179</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBKX200208034&amp;dbname=cjfd2002&amp;dbcode=CJFD&amp;id=&amp;file=QBKX200208034" target="_blank">国外连续出版物发展态势与国内对策研究</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       情报科学       
+      </td>
+      <td align="center">
+        2002-08-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2002!QBKX200208034','6','179');" class="deleteicon">x</a></td></tr><tr id="QBZL200203018" name="QBZL200203018" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2002!QBZL200203018!180!6" checked="checked"><span id="6180" name="6180">180</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBZL200203018&amp;DbName=cjfd2002&amp;DbCode=CJFD&amp;id=&amp;file=QBZL200203018" target="_blank">江苏地区与上海地区文献资源共享体系的比较研究</a>
+      </td>
+      <td>
+        彭桃英; 吴立志
+      </td>
+      <td>
+       情报资料工作       
+      </td>
+      <td align="center">
+        2002-05-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2002!QBZL200203018','6','180');" class="deleteicon">x</a></td></tr><tr id="TSGJ200205038" name="TSGJ200205038" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2002!TSGJ200205038!181!6" checked="checked"><span id="6181" name="6181">181</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGJ200205038&amp;dbname=cjfd2002&amp;dbcode=CJFD&amp;id=&amp;file=TSGJ200205038" target="_blank">高校新建分校区图书馆的建筑设计</a>
+      </td>
+      <td>
+        彭桃英; 吴有珍; 吴立志
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        2002-09-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2002!TSGJ200205038','6','181');" class="deleteicon">x</a></td></tr><tr id="HHCZ200203014" name="HHCZ200203014" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2002!HHCZ200203014!182!6" checked="checked"><span id="6182" name="6182">182</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HHCZ200203014&amp;DbName=cjfd2002&amp;DbCode=CJFD&amp;id=&amp;file=HHCZ200203014" target="_blank">更新文献检索课教学内容与方法的思考</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       河海大学常州分校学报       
+      </td>
+      <td align="center">
+        2002-09-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2002!HHCZ200203014','6','182');" class="deleteicon">x</a></td></tr><tr id="HHZX200203024" name="HHZX200203024" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2002!HHZX200203024!183!6" checked="checked"><span id="6183" name="6183">183</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=HHZX200203024&amp;dbname=cjfd2002&amp;dbcode=CJFD&amp;id=&amp;file=HHZX200203024" target="_blank">简论数字图书馆的建设</a>
+      </td>
+      <td>
+        彭桃英; 吴立志
+      </td>
+      <td>
+       河海大学学报(哲学社会科学版)       
+      </td>
+      <td align="center">
+        2002-09-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2002!HHZX200203024','6','183');" class="deleteicon">x</a></td></tr><tr id="HHZX200204025" name="HHZX200204025" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2002!HHZX200204025!184!6" checked="checked"><span id="6184" name="6184">184</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HHZX200204025&amp;DbName=cjfd2002&amp;DbCode=CJFD&amp;id=&amp;file=HHZX200204025" target="_blank">高校图书馆外文采访工作现状分析与对策</a>
+      </td>
+      <td>
+        王美珍
+      </td>
+      <td>
+       河海大学学报(哲学社会科学版)       
+      </td>
+      <td align="center">
+        2002-12-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2002!HHZX200204025','6','184');" class="deleteicon">x</a></td></tr><tr id="JSTS200201007" name="JSTS200201007" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2002!JSTS200201007!185!6" checked="checked"><span id="6185" name="6185">185</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200201007&amp;dbname=cjfd2002&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200201007" target="_blank">汇文信息服务系统在流通业务管理模块设计中的不足</a>
+      </td>
+      <td>
+        彭桃英; 吴有珍; 吴立志
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        2002-02-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2002!JSTS200201007','6','185');" class="deleteicon">x</a></td></tr><tr id="TSGU200204010" name="TSGU200204010" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2002!TSGU200204010!186!6" checked="checked"><span id="6186" name="6186">186</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGU200204010&amp;DbName=cjfd2002&amp;DbCode=CJFD&amp;id=&amp;file=TSGU200204010" target="_blank">论高校图书馆岗位津贴分配改革</a>
+      </td>
+      <td>
+        彭桃英; 吴立志
+      </td>
+      <td>
+       图书馆界       
+      </td>
+      <td align="center">
+        2002-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2002!TSGU200204010','6','186');" class="deleteicon">x</a></td></tr><tr id="QBZL2002S1140" name="QBZL2002S1140" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2002!QBZL2002S1140!187!6" checked="checked"><span id="6187" name="6187">187</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBZL2002S1140&amp;dbname=cjfd2002&amp;dbcode=CJFD&amp;id=&amp;file=QBZL2002S1140" target="_blank">论我国数字图书馆的建设</a>
+      </td>
+      <td>
+        彭桃英; 吴立志
+      </td>
+      <td>
+       情报资料工作       
+      </td>
+      <td align="center">
+        2002-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2002!QBZL2002S1140','6','187');" class="deleteicon">x</a></td></tr><tr id="TNGZ200208010" name="TNGZ200208010" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2002!TNGZ200208010!188!6" checked="checked"><span id="6188" name="6188">188</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TNGZ200208010&amp;DbName=cjfd2002&amp;DbCode=CJFD&amp;id=&amp;file=TNGZ200208010" target="_blank">决策支持系统文献归类研究</a>
+      </td>
+      <td>
+        崔淑萍; 缪晓阳; 王美珍
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2002-08-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2002!TNGZ200208010','6','188');" class="deleteicon">x</a></td></tr><tr id="TNGZ200202013" name="TNGZ200202013" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2002!TNGZ200202013!189!6" checked="checked"><span id="6189" name="6189">189</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ200202013&amp;dbname=CJFD2002&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ200202013" target="_blank">从列举式分类法向组配分类法的转变——试论新版《资料法》的修订特色</a>
+      </td>
+      <td>
+        侯汉清; 周冰
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2002-02-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2002!TNGZ200202013','6','189');" class="deleteicon">x</a></td></tr><tr id="TSGG200102015" name="TSGG200102015" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2001!TSGG200102015!190!6" checked="checked"><span id="6190" name="6190">190</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGG200102015&amp;DbName=cjfd2001&amp;DbCode=CJFD&amp;id=&amp;file=TSGG200102015" target="_blank">从Webring的组织形式谈创新</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆工作与研究       
+      </td>
+      <td align="center">
+        2001-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2001!TSGG200102015','6','190');" class="deleteicon">x</a></td></tr><tr id="TSGJ2001S1156" name="TSGJ2001S1156" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2001!TSGJ2001S1156!191!6" checked="checked"><span id="6191" name="6191">191</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGJ2001S1156&amp;dbname=cjfd2001&amp;dbcode=CJFD&amp;id=&amp;file=TSGJ2001S1156" target="_blank">制作图书馆教学课件的几点看法</a>
+      </td>
+      <td>
+        彭桃英; 吴立志
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        2001-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2001!TSGJ2001S1156','6','191');" class="deleteicon">x</a></td></tr><tr id="HHZX200104022" name="HHZX200104022" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2001!HHZX200104022!192!6" checked="checked"><span id="6192" name="6192">192</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HHZX200104022&amp;DbName=cjfd2001&amp;DbCode=CJFD&amp;id=&amp;file=HHZX200104022" target="_blank">网络环境下高校图书馆面临的挑战及对策</a>
+      </td>
+      <td>
+        王美珍
+      </td>
+      <td>
+       河海大学学报(哲学社会科学版)       
+      </td>
+      <td align="center">
+        2001-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2001!HHZX200104022','6','192');" class="deleteicon">x</a></td></tr><tr id="JSTS200101016" name="JSTS200101016" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2001!JSTS200101016!193!6" checked="checked"><span id="6193" name="6193">193</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200101016&amp;dbname=cjfd2001&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200101016" target="_blank">从书必妥文献服务系统的重组看德国图书馆的联网信息服务</a>
+      </td>
+      <td>
+        梁志建
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        2001-02-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2001!JSTS200101016','6','193');" class="deleteicon">x</a></td></tr><tr id="JSTS200103003" name="JSTS200103003" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2001!JSTS200103003!194!6" checked="checked"><span id="6194" name="6194">194</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS200103003&amp;DbName=cjfd2001&amp;DbCode=CJFD&amp;id=&amp;file=JSTS200103003" target="_blank">努力奋斗  实现“电子化图书馆+网络信息=新的生产力”</a>
+      </td>
+      <td>
+        施泽华
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        2001-06-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2001!JSTS200103003','6','194');" class="deleteicon">x</a></td></tr><tr id="TUSH200105016" name="TUSH200105016" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2001!TUSH200105016!195!6" checked="checked"><span id="6195" name="6195">195</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TUSH200105016&amp;dbname=cjfd2001&amp;dbcode=CJFD&amp;id=&amp;file=TUSH200105016" target="_blank">岳池陈树棠朴园书藏小考</a>
+      </td>
+      <td>
+        武晓峰
+      </td>
+      <td>
+       四川图书馆学报       
+      </td>
+      <td align="center">
+        2001-10-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2001!TUSH200105016','6','195');" class="deleteicon">x</a></td></tr><tr id="XDTQ2000S1015" name="XDTQ2000S1015" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2000!XDTQ2000S1015!196!6" checked="checked"><span id="6196" name="6196">196</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XDTQ2000S1015&amp;DbName=cjfd2000&amp;DbCode=CJFD&amp;id=&amp;file=XDTQ2000S1015" target="_blank">浅谈工具书计算机管理</a>
+      </td>
+      <td>
+        史宇清
+      </td>
+      <td>
+       现代图书情报技术       
+      </td>
+      <td align="center">
+        2000-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2000!XDTQ2000S1015','6','196');" class="deleteicon">x</a></td></tr><tr id="JSTS200001018" name="JSTS200001018" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2000!JSTS200001018!197!6" checked="checked"><span id="6197" name="6197">197</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200001018&amp;dbname=cjfd2000&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200001018" target="_blank">中国期刊网功能与检索技巧</a>
+      </td>
+      <td>
+        吴东敏; 肖东
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        2000-02-29
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2000!JSTS200001018','6','197');" class="deleteicon">x</a></td></tr><tr id="JSTS200005005" name="JSTS200005005" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2000!JSTS200005005!198!6" checked="checked"><span id="6198" name="6198">198</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS200005005&amp;DbName=cjfd2000&amp;DbCode=CJFD&amp;id=&amp;file=JSTS200005005" target="_blank">馆员新位置:知识工程师</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        2000-10-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2000!JSTS200005005','6','198');" class="deleteicon">x</a></td></tr><tr id="JSTS200005007" name="JSTS200005007" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2000!JSTS200005007!199!6" checked="checked"><span id="6199" name="6199">199</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS200005007&amp;dbname=cjfd2000&amp;dbcode=CJFD&amp;id=&amp;file=JSTS200005007" target="_blank">新版《中图法》通用复分表修订特色</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        2000-10-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2000!JSTS200005007','6','199');" class="deleteicon">x</a></td></tr><tr id="TUSH200001017" name="TUSH200001017" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD2000!TUSH200001017!200!6" checked="checked"><span id="6200" name="6200">200</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TUSH200001017&amp;DbName=cjfd2000&amp;DbCode=CJFD&amp;id=&amp;file=TUSH200001017" target="_blank">民国时期藏书家的赏鉴之风</a>
+      </td>
+      <td>
+        武晓峰
+      </td>
+      <td>
+       四川图书馆学报       
+      </td>
+      <td align="center">
+        2000-01-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD2000!TUSH200001017','6','200');" class="deleteicon">x</a></td></tr><tr id="TNGZ200005009" name="TNGZ200005009" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD2000!TNGZ200005009!201!6" checked="checked"><span id="6201" name="6201">201</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ200005009&amp;dbname=cjfd2000&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ200005009" target="_blank">试论“概念图书馆”</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        2000-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD2000!TNGZ200005009','6','201');" class="deleteicon">x</a></td></tr><tr id="TSGL199802027" name="TSGL199802027" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9899!TSGL199802027!202!6" checked="checked"><span id="6202" name="6202">202</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGL199802027&amp;DbName=CJFD1998&amp;DbCode=CJFD&amp;id=&amp;file=TSGL199802027" target="_blank">图书馆计算机管理人员的尴尬</a>
+      </td>
+      <td>
+        朱兰芳; 蔡明
+      </td>
+      <td>
+       图书馆论坛       
+      </td>
+      <td align="center">
+        1998-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9899!TSGL199802027','6','202');" class="deleteicon">x</a></td></tr><tr id="TSGT806.021" name="TSGT806.021" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9899!TSGT806.021!203!6" checked="checked"><span id="6203" name="6203">203</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGT806.021&amp;dbname=CJFD1998&amp;dbcode=CJFD&amp;id=&amp;file=TSGT806.021" target="_blank">《晦庵书话》和新书版本学</a>
+      </td>
+      <td>
+        武晓峰; 徐雁平
+      </td>
+      <td>
+       图书馆       
+      </td>
+      <td align="center">
+        1998-12-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9899!TSGT806.021','6','203');" class="deleteicon">x</a></td></tr><tr id="HHCZ199804011" name="HHCZ199804011" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9899!HHCZ199804011!204!6" checked="checked"><span id="6204" name="6204">204</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=HHCZ199804011&amp;DbName=CJFD1998&amp;DbCode=CJFD&amp;id=&amp;file=HHCZ199804011" target="_blank">面向21世纪的河海大学常州分校图书馆</a>
+      </td>
+      <td>
+        邱凤娥
+      </td>
+      <td>
+       河海大学机械学院学报       
+      </td>
+      <td align="center">
+        1998-11-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9899!HHCZ199804011','6','204');" class="deleteicon">x</a></td></tr><tr id="HHCZ199804012" name="HHCZ199804012" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9899!HHCZ199804012!205!6" checked="checked"><span id="6205" name="6205">205</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=HHCZ199804012&amp;dbname=CJFD1998&amp;dbcode=CJFD&amp;id=&amp;file=HHCZ199804012" target="_blank">新形势下期刊馆员的继续教育与培训</a>
+      </td>
+      <td>
+        孙辉
+      </td>
+      <td>
+       河海大学机械学院学报       
+      </td>
+      <td align="center">
+        1998-11-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9899!HHCZ199804012','6','205');" class="deleteicon">x</a></td></tr><tr id="JSTS805.015" name="JSTS805.015" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9899!JSTS805.015!206!6" checked="checked"><span id="6206" name="6206">206</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS805.015&amp;DbName=CJFD1998&amp;DbCode=CJFD&amp;id=&amp;file=JSTS805.015" target="_blank">德国文献服务系统SUBITO.1的建成对我国图书馆信息工作的启示</a>
+      </td>
+      <td>
+        梁志建
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        1998-10-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9899!JSTS805.015','6','206');" class="deleteicon">x</a></td></tr><tr id="TNGZ199801009" name="TNGZ199801009" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9899!TNGZ199801009!207!6" checked="checked"><span id="6207" name="6207">207</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ199801009&amp;dbname=CJFD1998&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ199801009" target="_blank">图书馆局域网的建设和管理</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        1998-01-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9899!TNGZ199801009','6','207');" class="deleteicon">x</a></td></tr><tr id="TNGZ199804023" name="TNGZ199804023" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9899!TNGZ199804023!208!6" checked="checked"><span id="6208" name="6208">208</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TNGZ199804023&amp;DbName=CJFD1998&amp;DbCode=CJFD&amp;id=&amp;file=TNGZ199804023" target="_blank">在校园网制作页面传播期刊信息</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        1998-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9899!TNGZ199804023','6','208');" class="deleteicon">x</a></td></tr><tr id="JSTS199904004" name="JSTS199904004" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9899!JSTS199904004!209!6" checked="checked"><span id="6209" name="6209">209</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS199904004&amp;dbname=cjfd1999&amp;dbcode=CJFD&amp;id=&amp;file=JSTS199904004" target="_blank">重构图书馆评价体系的研究</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        1999-08-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9899!JSTS199904004','6','209');" class="deleteicon">x</a></td></tr><tr id="TSQB199602013" name="TSQB199602013" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TSQB199602013!210!6" checked="checked"><span id="6210" name="6210">210</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSQB199602013&amp;DbName=CJFD1996&amp;DbCode=CJFD&amp;id=&amp;file=TSQB199602013" target="_blank">阅读:从文献交流到信息交流</a>
+      </td>
+      <td>
+        徐雁平; 武晓峰
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        1996-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!TSQB199602013','6','210');" class="deleteicon">x</a></td></tr><tr id="XDTQ199602012" name="XDTQ199602012" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!XDTQ199602012!211!6" checked="checked"><span id="6211" name="6211">211</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XDTQ199602012&amp;dbname=CJFD1996&amp;dbcode=CJFD&amp;id=&amp;file=XDTQ199602012" target="_blank">国际标准书号展开算法</a>
+      </td>
+      <td>
+        朱兰芳
+      </td>
+      <td>
+       现代图书情报技术       
+      </td>
+      <td align="center">
+        1996-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!XDTQ199602012','6','211');" class="deleteicon">x</a></td></tr><tr id="GXTG199601032" name="GXTG199601032" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!GXTG199601032!212!6" checked="checked"><span id="6212" name="6212">212</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=GXTG199601032&amp;DbName=CJFD1996&amp;DbCode=CJFD&amp;id=&amp;file=GXTG199601032" target="_blank">开发利用期刊的新途径─—使用缩微品</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       高校图书馆工作       
+      </td>
+      <td align="center">
+        1996-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!GXTG199601032','6','212');" class="deleteicon">x</a></td></tr><tr id="JSTS605.014" name="JSTS605.014" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!JSTS605.014!213!6" checked="checked"><span id="6213" name="6213">213</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS605.014&amp;dbname=CJFD1996&amp;dbcode=CJFD&amp;id=&amp;file=JSTS605.014" target="_blank">高校图书馆藏书建设规划管理探讨</a>
+      </td>
+      <td>
+        董廷松; 孟远
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        1996-10-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!JSTS605.014','6','213');" class="deleteicon">x</a></td></tr><tr id="TSSS199603027" name="TSSS199603027" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TSSS199603027!214!6" checked="checked"><span id="6214" name="6214">214</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSSS199603027&amp;DbName=CJFD1996&amp;DbCode=CJFD&amp;id=&amp;file=TSSS199603027" target="_blank">大学生窃书现象分析及其对策</a>
+      </td>
+      <td>
+        孙萍
+      </td>
+      <td>
+       图书馆学研究       
+      </td>
+      <td align="center">
+        1996-06-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!TSSS199603027','6','214');" class="deleteicon">x</a></td></tr><tr id="TUSH199604015" name="TUSH199604015" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TUSH199604015!215!6" checked="checked"><span id="6215" name="6215">215</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TUSH199604015&amp;dbname=CJFD1996&amp;dbcode=CJFD&amp;id=&amp;file=TUSH199604015" target="_blank">云烟过眼留鸿爪──严宝善先生与《贩书经眼录》</a>
+      </td>
+      <td>
+        武晓峰; 徐雁平
+      </td>
+      <td>
+       四川图书馆学报       
+      </td>
+      <td align="center">
+        1996-07-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!TUSH199604015','6','215');" class="deleteicon">x</a></td></tr><tr id="QBKX199602008" name="QBKX199602008" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!QBKX199602008!216!6" checked="checked"><span id="6216" name="6216">216</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBKX199602008&amp;DbName=CJFD1996&amp;DbCode=CJFD&amp;id=&amp;file=QBKX199602008" target="_blank">参考馆员面临的机遇和挑战</a>
+      </td>
+      <td>
+        蔡泽平
+      </td>
+      <td>
+       国外情报科学       
+      </td>
+      <td align="center">
+        1996-04-10
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!QBKX199602008','6','216');" class="deleteicon">x</a></td></tr><tr id="QBXB7S1.040" name="QBXB7S1.040" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!QBXB7S1.040!217!6" checked="checked"><span id="6217" name="6217">217</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBXB7S1.040&amp;dbname=CJFD1997&amp;dbcode=CJFD&amp;id=&amp;file=QBXB7S1.040" target="_blank">提高《中国学术期刊(光盘版)》利用率的措施</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       情报学报       
+      </td>
+      <td align="center">
+        1997-12-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!QBXB7S1.040','6','217');" class="deleteicon">x</a></td></tr><tr id="QBZL702.016" name="QBZL702.016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!QBZL702.016!218!6" checked="checked"><span id="6218" name="6218">218</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBZL702.016&amp;DbName=CJFD1997&amp;DbCode=CJFD&amp;id=&amp;file=QBZL702.016" target="_blank">外刊利用调查及价值分析</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       情报资料工作       
+      </td>
+      <td align="center">
+        1997-03-25
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!QBZL702.016','6','218');" class="deleteicon">x</a></td></tr><tr id="TSGJ702.002" name="TSGJ702.002" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TSGJ702.002!219!6" checked="checked"><span id="6219" name="6219">219</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGJ702.002&amp;dbname=CJFD1997&amp;dbcode=CJFD&amp;id=&amp;file=TSGJ702.002" target="_blank">图书馆应重视信息产品策划</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        1997-03-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!TSGJ702.002','6','219');" class="deleteicon">x</a></td></tr><tr id="TSGJ199706031" name="TSGJ199706031" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TSGJ199706031!220!6" checked="checked"><span id="6220" name="6220">220</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGJ199706031&amp;DbName=CJFD1997&amp;DbCode=CJFD&amp;id=&amp;file=TSGJ199706031" target="_blank">计算机管理在期刊应用中存在的几个误区</a>
+      </td>
+      <td>
+        林峥; 谢友宁
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        1997-11-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!TSGJ199706031','6','220');" class="deleteicon">x</a></td></tr><tr id="TSGT705.021" name="TSGT705.021" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TSGT705.021!221!6" checked="checked"><span id="6221" name="6221">221</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGT705.021&amp;dbname=CJFD1997&amp;dbcode=CJFD&amp;id=&amp;file=TSGT705.021" target="_blank">现代书商和中国典籍的聚散</a>
+      </td>
+      <td>
+        徐雁平; 武晓峰
+      </td>
+      <td>
+       图书馆       
+      </td>
+      <td align="center">
+        1997-10-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!TSGT705.021','6','221');" class="deleteicon">x</a></td></tr><tr id="TSQB708.006" name="TSQB708.006" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TSQB708.006!222!6" checked="checked"><span id="6222" name="6222">222</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSQB708.006&amp;DbName=CJFD1997&amp;DbCode=CJFD&amp;id=&amp;file=TSQB708.006" target="_blank">当今图书馆学研究新态势之思考</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        1997-08-18
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!TSQB708.006','6','222');" class="deleteicon">x</a></td></tr><tr id="JSTS703.001" name="JSTS703.001" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!JSTS703.001!223!6" checked="checked"><span id="6223" name="6223">223</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=JSTS703.001&amp;dbname=CJFD1997&amp;dbcode=CJFD&amp;id=&amp;file=JSTS703.001" target="_blank">试论读者权益保护</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        1997-06-30
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!JSTS703.001','6','223');" class="deleteicon">x</a></td></tr><tr id="TNGZ199704006" name="TNGZ199704006" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TNGZ199704006!224!6" checked="checked"><span id="6224" name="6224">224</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TNGZ199704006&amp;DbName=CJFD1997&amp;DbCode=CJFD&amp;id=&amp;file=TNGZ199704006" target="_blank">主页(Homepage)设计保护初探</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        1997-04-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!TNGZ199704006','6','224');" class="deleteicon">x</a></td></tr><tr id="TNGZ199705012" name="TNGZ199705012" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9697!TNGZ199705012!225!6" checked="checked"><span id="6225" name="6225">225</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ199705012&amp;dbname=CJFD1997&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ199705012" target="_blank">客户机/服务器模式的图书馆集成管理系统建设</a>
+      </td>
+      <td>
+        杜云飞
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        1997-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9697!TNGZ199705012','6','225');" class="deleteicon">x</a></td></tr><tr id="DDTS199702006" name="DDTS199702006" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9697!DDTS199702006!226!6" checked="checked"><span id="6226" name="6226">226</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=DDTS199702006&amp;DbName=CJFD1997&amp;DbCode=CJFD&amp;id=&amp;file=DDTS199702006" target="_blank">浅谈计算机类图书的选购原则</a>
+      </td>
+      <td>
+        姜颖
+      </td>
+      <td>
+       当代图书馆       
+      </td>
+      <td align="center">
+        1997-06-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9697!DDTS199702006','6','226');" class="deleteicon">x</a></td></tr><tr id="TSGL401.011" name="TSGL401.011" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TSGL401.011!227!6" checked="checked"><span id="6227" name="6227">227</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSGL401.011&amp;dbname=CJFD1994&amp;dbcode=CJFD&amp;id=&amp;file=TSGL401.011" target="_blank">试谈高校图书馆语音室的建立及使用</a>
+      </td>
+      <td>
+        黄海峰; 姜颖
+      </td>
+      <td>
+       图书馆论坛       
+      </td>
+      <td align="center">
+        1994-02-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9495!TSGL401.011','6','227');" class="deleteicon">x</a></td></tr><tr id="TSGX402.026" name="TSGX402.026" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TSGX402.026!228!6" checked="checked"><span id="6228" name="6228">228</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGX402.026&amp;DbName=CJFD1994&amp;DbCode=CJFD&amp;id=&amp;file=TSGX402.026" target="_blank">读者──图书馆事业发展的温度计</a>
+      </td>
+      <td>
+        施国良
+      </td>
+      <td>
+       图书馆学刊       
+      </td>
+      <td align="center">
+        1994-03-20
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9495!TSGX402.026','6','228');" class="deleteicon">x</a></td></tr><tr id="TUSH199405011" name="TUSH199405011" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TUSH199405011!229!6" checked="checked"><span id="6229" name="6229">229</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TUSH199405011&amp;dbname=CJFD1994&amp;dbcode=CJFD&amp;id=&amp;file=TUSH199405011" target="_blank">近现代的海外访书</a>
+      </td>
+      <td>
+        武晓峰; 徐雁平
+      </td>
+      <td>
+       四川图书馆学报       
+      </td>
+      <td align="center">
+        1994-09-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9495!TUSH199405011','6','229');" class="deleteicon">x</a></td></tr><tr id="SLSD199401024" name="SLSD199401024" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9495!SLSD199401024!230!6" checked="checked"><span id="6230" name="6230">230</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=SLSD199401024&amp;DbName=CJFD1994&amp;DbCode=CJFD&amp;id=&amp;file=SLSD199401024" target="_blank">缩微复制技术在外文期刊协调中的作用</a>
+      </td>
+      <td>
+        曹汉章; 吴东敏
+      </td>
+      <td>
+       河海科技进展       
+      </td>
+      <td align="center">
+        1994-02-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9495!SLSD199401024','6','230');" class="deleteicon">x</a></td></tr><tr id="TNGZ199405012" name="TNGZ199405012" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TNGZ199405012!231!6" checked="checked"><span id="6231" name="6231">231</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TNGZ199405012&amp;dbname=CJFD1994&amp;dbcode=CJFD&amp;id=&amp;file=TNGZ199405012" target="_blank">图书馆需不需要CI</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        1994-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9495!TNGZ199405012','6','231');" class="deleteicon">x</a></td></tr><tr id="QBXB506.007" name="QBXB506.007" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9495!QBXB506.007!232!6" checked="checked"><span id="6232" name="6232">232</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=QBXB506.007&amp;DbName=CJFD1995&amp;DbCode=CJFD&amp;id=&amp;file=QBXB506.007" target="_blank">在大学及科研机构图书馆中建立自产文献数据库</a>
+      </td>
+      <td>
+        杨晓宁; 施国良
+      </td>
+      <td>
+       情报学报       
+      </td>
+      <td align="center">
+        1995-12-24
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9495!QBXB506.007','6','232');" class="deleteicon">x</a></td></tr><tr id="QBZZ199506014" name="QBZZ199506014" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9495!QBZZ199506014!233!6" checked="checked"><span id="6233" name="6233">233</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=QBZZ199506014&amp;dbname=CJFD1995&amp;dbcode=CJFD&amp;id=&amp;file=QBZZ199506014" target="_blank">专业会议资料的开发利用</a>
+      </td>
+      <td>
+        吴东敏
+      </td>
+      <td>
+       情报杂志       
+      </td>
+      <td align="center">
+        1995-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9495!QBZZ199506014','6','233');" class="deleteicon">x</a></td></tr><tr id="TSGJ503.030" name="TSGJ503.030" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TSGJ503.030!234!6" checked="checked"><span id="6234" name="6234">234</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TSGJ503.030&amp;DbName=CJFD1995&amp;DbCode=CJFD&amp;id=&amp;file=TSGJ503.030" target="_blank">由图书馆使用计算机管理引来的思考</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆建设       
+      </td>
+      <td align="center">
+        1995-05-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9495!TSGJ503.030','6','234');" class="deleteicon">x</a></td></tr><tr id="ZGTS501.016" name="ZGTS501.016" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9495!ZGTS501.016!235!6" checked="checked"><span id="6235" name="6235">235</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=ZGTS501.016&amp;dbname=CJFD1995&amp;dbcode=CJFD&amp;id=&amp;file=ZGTS501.016" target="_blank">是否有新书版本学</a>
+      </td>
+      <td>
+        徐雁平; 武晓峰
+      </td>
+      <td>
+       中国图书馆学报       
+      </td>
+      <td align="center">
+        1995-01-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9495!ZGTS501.016','6','235');" class="deleteicon">x</a></td></tr><tr id="JSTS501.016" name="JSTS501.016" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9495!JSTS501.016!236!6" checked="checked"><span id="6236" name="6236">236</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=JSTS501.016&amp;DbName=CJFD1995&amp;DbCode=CJFD&amp;id=&amp;file=JSTS501.016" target="_blank">高校图书馆对内部资料管理工作的几点做法与思考</a>
+      </td>
+      <td>
+        谢芳
+      </td>
+      <td>
+       江苏图书馆学报       
+      </td>
+      <td align="center">
+        1995-02-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9495!JSTS501.016','6','236');" class="deleteicon">x</a></td></tr><tr id="TUSH503.011" name="TUSH503.011" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TUSH503.011!237!6" checked="checked"><span id="6237" name="6237">237</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TUSH503.011&amp;dbname=CJFD1995&amp;dbcode=CJFD&amp;id=&amp;file=TUSH503.011" target="_blank">傅增湘先生对蜀中文献的收集与传播──兼谈《宋代蜀文辑存》的编辑出版</a>
+      </td>
+      <td>
+        徐雁平; 武晓峰
+      </td>
+      <td>
+       四川图书馆学报       
+      </td>
+      <td align="center">
+        1995-05-28
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFD9495!TUSH503.011','6','237');" class="deleteicon">x</a></td></tr><tr id="TNGZ199506000" name="TNGZ199506000" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CJFD9495!TNGZ199506000!238!6" checked="checked"><span id="6238" name="6238">238</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=TNGZ199506000&amp;DbName=CJFD1995&amp;DbCode=CJFD&amp;id=&amp;file=TNGZ199506000" target="_blank">信息服务制高点——信息策划</a>
+      </td>
+      <td>
+        谢友宁
+      </td>
+      <td>
+       图书馆杂志       
+      </td>
+      <td align="center">
+        1995-12-15
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CJFD9495!TNGZ199506000','6','238');" class="deleteicon">x</a></td></tr><tr id="TSQB201923019" name="TSQB201923019" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CJFDAUTO!TSQB201923019!239!6" checked="checked"><span id="6239" name="6239">239</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=TSQB201923019&amp;dbname=DKFXTEMP&amp;dbcode=CJFD&amp;id=&amp;file=TSQB201923019" target="_blank">高校图书馆复杂网络构建与智慧化应用探索</a>
+      </td>
+      <td>
+        施国良; 谢泽宇; 杨小莉
+      </td>
+      <td>
+       图书情报工作       
+      </td>
+      <td align="center">
+        2019-12-05
+      </td>        
+      <td align="center">
+        期刊
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CJFDAUTO!TSQB201923019','6','239');" class="deleteicon">x</a></td></tr><tr id="XHSM201603110161" name="XHSM201603110161" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CCNDLAST2016!XHSM201603110161!240!6" checked="checked"><span id="6240" name="6240">240</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=XHSM201603110161&amp;DbName=CCND2016&amp;DbCode=CCND&amp;id=&amp;file=XHSM201603110161" target="_blank">数字资源建设值得关注的几个问题</a>
+      </td>
+      <td>
+        河海大学图书馆(信息所)数字化技术部主任  谢友宁  袁晖
+      </td>
+      <td>
+       新华书目报       
+      </td>
+      <td align="center">
+        2016-03-11
+      </td>        
+      <td align="center">
+        报纸
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CCNDLAST2016!XHSM201603110161','6','240');" class="deleteicon">x</a></td></tr><tr id="XHSM20151106A062" name="XHSM20151106A062" bgcolor="#f6f7fb"><td><input type="checkbox" name="FileNameS" value="CCNDLAST2015!XHSM20151106A062!241!6" checked="checked"><span id="6241" name="6241">241</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;filename=XHSM20151106A062&amp;dbname=CCND2015&amp;dbcode=CCND&amp;id=&amp;file=XHSM20151106A062" target="_blank">“数字文献长期保存”是战略，也是责任</a>
+      </td>
+      <td>
+        河海大学图书馆(信息研究所)数字化技术部主任  谢友宁  方圆
+      </td>
+      <td>
+       新华书目报       
+      </td>
+      <td align="center">
+        2015-11-06
+      </td>        
+      <td align="center">
+        报纸
+      </td> 
+  <td align="center"><a href="javascript:void(0)" onclick="hiddenTR('CCNDLAST2015!XHSM20151106A062','6','241');" class="deleteicon">x</a></td></tr><tr id="ZXTS200808007" name="ZXTS200808007" bgcolor="#ffffff"><td><input type="checkbox" name="FileNameS" value="CCJDLAST1!ZXTS200808007!242!6" checked="checked"><span id="6242" name="6242">242</span></td><td>
+      <a class="fz14" href="/kns/detail/detail.aspx?recid=&amp;FileName=ZXTS200808007&amp;DbName=CCJD2008&amp;DbCode=CCJD&amp;id=&amp;file=ZXTS200808007" target="_blank">做好少儿图书馆工作——培养少儿阅读兴趣,提高少儿阅读能力</a>
+      </td>
+      <td>
+        周冰
+      </td>
+      <td>
+       中小学图书情报世界       
+      </td>
+      <td align="center">
+        2008-08-25
+      </td>        
+      <td align="center">
+        辑刊
+      </td> 
+  <td align="center"><a href="javascript:void(0);" onclick="hiddenTR('CCJDLAST1!ZXTS200808007','6','242');" class="deleteicon">x</a></td></tr></tbody>
